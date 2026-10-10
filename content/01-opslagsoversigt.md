@@ -86,7 +86,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 
 ### F. HR-generalistens dilemmaer
 
-Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin vej, og hvordan du selv tænker. Afslut med "Hvad ville du gøre?". Alle cases anonymiseres.
+Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin vej, og hvordan du selv tænker. Afslut med din egen holdning, ikke med et spørgsmål. Alle cases anonymiseres.
 
 | # | Opslag | Format | Hook |
 |---|--------|--------|------|
@@ -129,7 +129,7 @@ Du har allerede postet tre opslag: "Fra karrierestige til career playground", hv
 1. **Hook i linje 1–2.** Under 15 ord. Det er det eneste, folk ser før "…se mere".
 2. **Én pointe pr. opslag.** 800–1.500 tegn er nok.
 3. **Luft.** Korte afsnit, én tanke pr. linje.
-4. **Slut med et spørgsmål**, der er nemt at svare på.
+4. **Slut med en klar holdning eller en blød opfordring.** Ingen tvungne spørgsmål til sidst; de lyder som AI.
 5. **Ingen eksterne links i selve opslaget** – læg dem i første kommentar.
 6. **0–3 hashtags**, fx `#HR` `#Rekruttering` `#Ledelse`.
 7. **Udgiv tirsdag–torsdag kl. 7.30–9.00**, og svar på alle kommentarer inden for den første time.

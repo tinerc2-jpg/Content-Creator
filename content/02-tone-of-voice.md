@@ -72,16 +72,17 @@ Opslagene skal lyde som Tine, ikke som en maskine. Før et opslag er klar, genne
 - Tankestreger som pauser midt i sætninger
 - Gentagne sætningsstarter lige efter hinanden ("Dér … dér …", "Det er … Det er …")
 - Afslutninger, der opsummerer det, der lige er sagt
+- Tvungne spørgsmål til sidst ("Hvad tænker du?", "Hvordan gør du?")
 - Emojis som punkttegn
 
 **Hellere**
 - Konkrete øjeblikke, tal og repliker fra Tines egen hverdag
 - Almindelige, korte sætninger, som Tine ville sige dem højt
 - Sætninger af forskellig længde, også en enkelt kort sætning alene
-- Et spørgsmål til sidst, som man kan svare på uden at tænke længe
+- En klar holdning til sidst, gerne med lidt kant
 
 ## Tre forbedringer i forhold til de eksisterende opslag
 
 1. **Hook i første linje.** Titel-linjen er god, men linje 2 skal give en grund til at klikke på "…se mere". Byt gerne om, så den mest overraskende sætning kommer først.
-2. **Slut med et spørgsmål.** Tines opslag slutter ofte med en konstatering. Et åbent spørgsmål giver flere kommentarer og dermed mere reach.
+2. **Lidt mere kant.** Tine må gerne sige, hvad hun mener, også når det stikker lidt. En klar holdning giver flere kommentarer end et spørgsmål.
 3. **Én konkret detalje mere.** Fx et tal, et øjeblik eller en replik fra en samtale. Det gør historien til Tines egen og ikke en generel betragtning.

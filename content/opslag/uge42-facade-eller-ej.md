@@ -23,40 +23,35 @@
 >
 > #rekruttering #ledelse #kultur #menneskerifokus #jobsøgning #hr
 
-## Fine-tunet version (v2)
+## Version 3: med mere kant (aktuel)
 
-Det er stadig din tekst og din tone. Ændringerne:
+Ændringer i forhold til v2:
 
-1. **Hooket fylder de første 2–3 linjer**, som er det eneste, folk ser på mobilen før "…se mere". Kontrasten (hundredvis af samtaler, nu i kandidatstolen) kommer allerede i linje 2.
-2. **Mindre gentagelse.** "Mærker" og "rum" stod to gange hver. Nu er de der kun én gang.
-3. **[Valgfrit] Én konkret detalje** fra din tid som hiring manager. Den gør historien til din. Brug den kun, hvis den passer, ellers slet linjen.
-4. **Et spørgsmål til sidst, der er let at svare på.** Det koster ikke meget at svare med et kort eksempel.
-5. **3 hashtags i stedet for 6.**
-6. **Gennemgået for AI-sprog** efter tjeklisten i [tone of voice-guiden](../02-tone-of-voice.md).
-
-Teksten er ca. 1.150 tegn.
+- **Mere kant.** Opslaget siger højt, at begge sider af bordet spiller skuespil, og at det er spild af tid.
+- **Ingen spørgsmål til sidst.** Opslaget slutter med en holdning.
+- Din egen formulering om rustningen og kemien er bevaret.
 
 > Facade eller ej? 🎭
 >
-> Jeg har siddet på den anden side af bordet i hundredvis af jobsamtaler. Nu sidder jeg selv i kandidatstolen, og det giver stof til eftertanke.
+> Jeg har siddet på den anden side af bordet i hundredvis af jobsamtaler. Nu sidder jeg selv i kandidatstolen, og jeg må indrømme, at jeg genkender mig selv lidt for godt i begge roller.
 >
-> For hvorfor har vi egentlig så travlt med at tage facaden på?
+> For vi spiller jo skuespil. Begge to.
 >
-> Når vi lader den professionelle rustning ligge ude i gangen, sker der noget helt andet i rummet. Det gælder, uanset om man er den, der rekrutterer, eller den, der søger.
+> Kandidaten har øvet sine svar og sin svaghed, der i virkeligheden er en styrke. Rekrutteren fortæller om en fantastisk kultur og et team, der er som en familie. Alle smiler, og bagefter ved ingen af os ret meget mere om hinanden end før.
+>
+> Det er spild af tid på begge sider af bordet.
 >
 > [Valgfrit] Som hiring manager lærte jeg ofte mest om en kandidat i de få minutter, hvor samtalen egentlig var slut, og vi bare snakkede.
 >
-> Det er i de øjeblikke, hvor vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Det er der, kulturen bliver tydelig, og der, den kemi opstår, som intet CV i verden kan beskrive.
+> Det er, når vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Det er der, kulturen viser sig, og den kemi opstår, som intet CV i verden kan beskrive.
 >
-> Når man føler sig velkommen, åbner man op. Nysgerrigheden tager over, og så bliver det meget nemmere at se de faktiske kompetencer og det reelle potentiale i stedet for blot at gå en tjekliste igennem.
+> Så jeg lader den professionelle rustning ligge ude i gangen. Jeg kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
 >
-> For mig har det altid handlet om at skabe plads til at være sig selv, uanset hvilken side af bordet jeg sidder på.
->
-> De bedste samtaler starter med en god kop kaffe, et grin og en ærlig snak. Det er den kultur, jeg leder efter i mit næste eventyr, og som jeg selv tager med til bordet 💙
->
-> Hvornår faldt facaden sidst for dig i en jobsamtale, som rekrutterer eller som kandidat?
+> Den samme ærlighed tager jeg med til bordet, når jeg selv sidder på den anden side igen 💙
 >
 > #rekruttering #kultur #jobsøgning
+
+**Én ting du skal vurdere:** "et team, der er som en familie" stikker lidt til rekrutterere. Det er meningen, men vil du være mere forsigtig, kan du skrive "et team med højt til loftet" i stedet.
 
 ### Alternative hooks (hvis du vil prøve noget andet end titlen)
 
@@ -68,6 +63,6 @@ Teksten er ca. 1.150 tegn.
 
 - **Hvornår:** tirsdag 13. eller onsdag 14. oktober kl. 7.30–8.30. Netflix-opslaget fra 5. oktober har så haft over en uge alene.
 - **Før du poster:** brug 10 minutter på at kommentere på 3–5 opslag fra HR-folk og rekrutterere i dit netværk.
-- **Efter du har postet:** svar på alle kommentarer inden for den første time, gerne med et modspørgsmål.
+- **Efter du har postet:** svar på alle kommentarer inden for den første time.
 - **Ingen links og ingen tags** i dette opslag. Det handler om dig.
 - **Efter 7 dage:** send mig eksponeringer, reaktioner, kommentarer og genopslag, så opdaterer jeg dashboardet.
