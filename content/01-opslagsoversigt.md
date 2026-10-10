@@ -45,7 +45,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | # | Opslag | Format | Hook |
 |---|--------|--------|------|
 | B1 | AI i rekruttering: hvor skal mennesket blive i loopet? | T | "AI kan screene 1.000 CV'er. Den kan ikke mærke en kultur." |
-| B2 | EU's løngennemsigtighedsdirektiv (gælder fra juni 2026) – hvad betyder det i praksis? | K | "Snart skal I kunne forklare enhver lønforskel. Er I klar?" |
+| B2 | Løngennemsigtighed – hvad betyder det i praksis? **Venter til foråret 2027**, fordi reglerne først implementeres i Danmark i marts 2027 | K | "Snart skal I kunne forklare enhver lønforskel. Er I klar?" |
 | B3 | Er "kulturelt match" en skjult bias? | P + T | "Hvornår blev 'passer ind' en undskyldning for 'ligner os'?" |
 | B4 | Hjemmearbejde i 2026: hvad har vi lært? | P | "Hvor mange dage på kontoret er det rigtige antal?" |
 | B5 | 4-dages arbejdsuge – hype eller fremtid? | T | "Jeg var skeptisk. Så læste jeg tallene." |
@@ -81,6 +81,8 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | E4 | Tak til en tidligere leder/kollega, der formede mig | T | "Den bedste leder, jeg har haft, gjorde én ting anderledes." |
 | E5 | Bogen der ændrede mit syn på HR | B + T | "Hvis du kun læser én HR-bog i år…" |
 | E6 | Spørg mig om alt om HR – åben Q&A | T | "Jeg svarer på alle spørgsmål i kommentarerne i dag." |
+| E7 | Bag kameraet: golf, sport og krimi | B + T | "Swinget er stadig i produktion." |
+| E8 | Piloten: hvad Ving lærte mig om HR | T | "Jeg lærte mere om medarbejderoplevelse ved at sælge charterrejser end på noget kursus." |
 
 ### F. HR-generalistens dilemmaer
 
@@ -106,19 +108,19 @@ Du har allerede postet tre opslag: "Fra karrierestige til career playground", hv
 | Uge | Opslag | Søjle | Din vinkel |
 |-----|--------|-------|------------|
 | 42 | C2 – "Facade eller ej?" | C | **Klar til at poste.** Se [opslag/uge42-facade-eller-ej.md](opslag/uge42-facade-eller-ej.md) |
-| 43 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
-| 44 | **Dilemma 1:** F5 – Ekspert i alt, specialist i intet? | F | Starter serien: hverdagen som HR med eneansvar, fra overenskomst om formiddagen til strategi om eftermiddagen |
+| 43 | **Dilemma 1:** F5 – Ekspert i alt, specialist i intet? | F | Starter serien: hverdagen som HR med eneansvar, fra overenskomst om formiddagen til strategi om eftermiddagen |
+| 44 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator |
-| 46 | A9 – Når data og samtaler peger samme vej (karrusel) | A | Peakon-engagement og exitsamtaler viste et mønster, der førte til en omstrukturering. Gennemsnitligt engagement på 8,4 mod en benchmark på 7,7 |
-| 47 | **Dilemma 2:** F1 – Hvem er HR's kunde? (afstemning) | F | Ledelsen eller medarbejderen? Afstemninger giver mange visninger |
-| 48 | Piloten: hvad Ving lærte mig om HR | D | Charterrejser, service og holdånd, og hvorfor gæsteoplevelse og medarbejderoplevelse hænger sammen |
-| 49 | **Dilemma 3:** F4 – Det akutte versus det langsigtede | F | Når brandslukning fylder kalenderen: hvem bygger så brandvæsnet? |
-| 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med jobklassificering og lønstruktur |
-| 51 | **Dilemma 4:** F2 – Fortrolighed | F | En medarbejder betror sig, men det, du får at vide, kræver handling |
-| 52 | Bag kameraet: golf, sport og krimi | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
-| 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |
+| 46 | **Dilemma 2:** F1 – Hvem er HR's kunde? (afstemning) | F | Ledelsen eller medarbejderen? Afstemninger giver mange visninger |
+| 47 | A9 – Når data og samtaler peger samme vej (karrusel) | A | Peakon-engagement og exitsamtaler viste et mønster, der førte til en omstrukturering. Gennemsnitligt engagement på 8,4 mod en benchmark på 7,7 |
+| 48 | **Dilemma 3:** F4 – Det akutte versus det langsigtede | F | Når brandslukning fylder kalenderen: hvem bygger så brandvæsnet? |
+| 49 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
+| 50 | **Dilemma 4:** F2 – Fortrolighed | F | En medarbejder betror sig, men det, du får at vide, kræver handling |
+| 51 | A1 – God onboarding (karrusel) | A | Hvad du har set virke fra IC Companys til Randstad |
+| 52 | E5 – Bogen der ændrede mit syn på HR | E | Let opslag i juleugen, der også kan bruges som gaveidé |
+| 1 | B6 – Seniorer på arbejdsmarkedet: vi spilder erfaring | B | Nytår og nye ansættelser: debatemne med stor rækkevidde |
 
-**Fire dilemmaer i perioden** (uge 44, 47, 49 og 51), og fra uge 2 fortsætter de som en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
+**Fire dilemmaer i perioden** (uge 43, 46, 48 og 50), og fra uge 2 fortsætter de som en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
 
 ---
 
