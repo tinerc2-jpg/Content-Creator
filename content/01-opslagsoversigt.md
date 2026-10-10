@@ -15,7 +15,7 @@
 | C | **Jobsøgningsrejsen** – ærlig, konstruktiv, aldrig klagende | 15 % | "Reflekteret, robust, åben for nyt" |
 | D | **Erfaringer og cases** – fra tidligere job (anonymiseret) | 15 % | "Har leveret resultater" |
 | E | **Netværk og anerkendelse** – fremhæv andre, events, kurser | 10 % | "God kollega, bygger relationer" |
-| F | **HR-generalistens dilemmaer** – når der ikke er et rigtigt svar | 15 % | "Har stået i det og tør vise, hvordan hun tænker" |
+| F | **HR-generalistens dilemmaer** – når der ikke er et rigtigt svar | 15 % | "Har stået i det og tør vise sin tankegang" |
 
 ---
 
@@ -89,7 +89,7 @@ Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin v
 | # | Opslag | Format | Hook |
 |---|--------|--------|------|
 | F1 | Hvem er HR's kunde: ledelsen eller medarbejderen? | P + T | "Jeg bliver spurgt om det hele tiden. Mit svar er: begge. Og det er netop dilemmaet." |
-| F2 | Fortrolighed: en medarbejder betror sig, men det, hun fortæller, kræver handling | T | "'Du må ikke sige det til nogen.' Den sætning har givet mig flere søvnløse nætter end nogen fyringsrunde." |
+| F2 | Fortrolighed: en medarbejder betror sig, men det, medarbejderen fortæller, kræver handling | T | "'Du må ikke sige det til nogen.' Den sætning har givet mig flere søvnløse nætter end nogen fyringsrunde." |
 | F3 | Lederen vil fyre i dag. Processen siger om tre måneder. | T | "Der er en forskel på at være lederens partner og lederens forlængede arm." |
 | F4 | Det akutte versus det langsigtede | T | "Når kalenderen er fuld af brandslukning, hvem bygger så brandvæsnet?" |
 | F5 | Ekspert i alt, specialist i intet? | T | "Om formiddagen overenskomst. Om eftermiddagen strategi. Om aftenen en svær samtale." |
