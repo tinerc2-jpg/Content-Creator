@@ -42,11 +42,11 @@
 >
 > Og det er synd. For det, vi begge prøver at finde ud af, er jo, om vi får lyst til at arbejde sammen. Det kan man ikke mærke gennem en facade.
 >
-> De bedste samtaler, jeg har haft, var dem, hvor vi glemte at spille. Hvor vi sænkede skuldrene, grinede lidt sammen og fik en ærlig snak. Det er der, man mærker kulturen og den kemi, som intet CV i verden kan beskrive.
+> De bedste samtaler, jeg har haft, var dem, hvor vi glemte at spille. Hvor vi sænkede skuldrene, grinede sammen og fik en ærlig snak. Det er der, man mærker kulturen og den kemi, som intet CV i verden kan beskrive.
 >
 > Så jeg lader den professionelle rustning ligge ude i gangen og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
 >
-> Og når jeg selv sidder på den anden side af bordet igen, er det den samme kop kaffe og ærlige snak, jeg byder på 💙
+> Og når jeg selv sidder på den anden side af bordet igen, er det den samme kop kaffe, de samme grin og den samme ærlige snak, jeg byder på 💙
 >
 > #rekruttering #kultur #jobsøgning
 
