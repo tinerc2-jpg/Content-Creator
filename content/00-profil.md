@@ -1,6 +1,6 @@
 # Profil – Tine Ryg Cebrian
 
-> Grundlaget for alt indhold. Samlet fra Tines CV'er, ansøgninger, karrierevideoen "Sæson 4" og case-præsentationen.
+> Grundlaget for alt indhold. Samlet fra Tines LinkedIn-profil, CV'er, ansøgninger, karrierevideoen "Sæson 4" og case-præsentationen.
 > Repoet er offentligt, så her står kun det, der også kan stå på LinkedIn. Der er ingen adresse, telefonnummer, ansøgninger, afslag eller kontaktpersoner.
 
 ## Positionering
@@ -8,6 +8,10 @@
 **"Leading with heart and data"**: hjerte først, data i hånden.
 
 **Målroller:** HR Director / Head of People, Senior HR Business Partner og Talent Acquisition-leder i Storkøbenhavn. Kan starte med det samme.
+
+**LinkedIn-profilen er på engelsk** og fortæller karrieren som en serie: "Now streaming: the story of an HR partner who leads with heart and data."
+
+**Løftet i About:** HR tæt på arbejdet, en ærlig sparringspartner, der lytter først, og medarbejdere, der vælger at blive, fordi de kan se deres næste skridt. "We don't just hire for a job, we hire for a career."
 
 **Kerneidentitet:** HR-generalist, der har haft eneansvar for hele HR-agendaen gennem hele karrieren, fra strategi til drift. Har været betroet rådgiver for CEO og ledelse uden et stort specialistteam bag sig.
 
@@ -26,7 +30,7 @@
 - **Great Conversations:** Randstad besluttede globalt at erstatte de årlige MUS-samtaler med kvartalsvise, mere uformelle samtaler. Tine trænede ledere og medarbejdere i Danmark i den nye måde at tænke udvikling på. Konceptet bruges nu i hele organisationen.
 - **Career Playground:** Tine byggede og rullede en ikke-hierarkisk model for karriereudvikling ud. Medarbejderne fik selv ejerskab over deres udvikling i stedet for en fast karrierestige.
 - **People analytics:** Kvartalsvise Peakon-målinger, Crunchr og exitsamtaler blev brugt til at finde mønstre, udfordre antagelser og omsætte data til ledelsesbeslutninger. Engagementsmålingen blev et ledelsesværktøj: man anerkender medarbejdernes svar og handler på dem, ikke kun på tallet.
-- **Resultat:** Den frivillige personaleomsætning lå omkring 10 %, og Peakon-engagementet omkring 8,5 (benchmark 7,4). Det holdt gennem flere økonomisk svære år.
+- **Resultat:** Den frivillige personaleomsætning lå omkring 10 %, og Peakon-engagementet på 8,4 (benchmark 7,7). Tallene er fra LinkedIn-profilen; et CV siger 8,5 mod 7,4, se "Vær opmærksom på". Det holdt gennem flere økonomisk svære år.
 - **Øvrige indsatser:**
   - Randstad Leadership Framework
   - Nyt EVP (employer value proposition)
@@ -72,7 +76,7 @@
 
 ## Personligt (krydderi, ikke hovedret)
 
-Rejser og stranden, krimiserier og hvidvin ved havet, golf ("swinget er stadig i produktion"). Bor i Dragør.
+Gift og mor til to voksne sønner. Altid klar til næste rejse, sportsnørd og ny golfspiller ("the swing is still a work in progress"). Stranden, krimiserier og hvidvin ved havet. Bor i Dragør.
 
 ## Visuelt
 
@@ -81,6 +85,7 @@ Profilbilledet er et smilende portræt i et lyst kontormiljø med en blå/turkis
 ## Vær opmærksom på
 
 - **Fritstilling:** Tine er fritstillet fra Randstad indtil 28. februar 2027. Opslag om Randstad skal handle om egne resultater og læring, ikke om interne forhold.
+- **Peakon-tallene er ikke ens:** LinkedIn siger 8,4 mod en benchmark på 7,7. Et CV siger 8,5 mod 7,4. Opslagene bruger LinkedIn-tallene, indtil Tine har bekræftet de rigtige.
 - **LinkedIn-URL:** CV'erne bruger to forskellige: `linkedin.com/in/tinerygcebrian` og `linkedin.com/in/tinerc`. Tjek hvilken der virker, og brug den samme overalt.
 
 ## Eksisterende materiale, der kan genbruges

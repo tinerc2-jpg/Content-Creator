@@ -35,7 +35,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | A6 | 3 HR-nøgletal enhver leder bør kende | K | "Personaleomsætning er ikke et HR-tal. Det er et ledelsestal." |
 | A7 | Kandidatoplevelsen: hvad kandidater husker om jer | T | "Alle kandidater, I siger nej til, fortæller om jer bagefter." |
 | A8 | Fravær og sygefravær – den gode omsorgssamtale | T | "Omsorgssamtaler handler ikke om kontrol." |
-| A9 | People analytics uden et analytics-team | K | "Engagement på 8,5. Benchmark 7,4. Gennem flere svære år. Tallet var aldrig målet." |
+| A9 | People analytics uden et analytics-team | K | "Engagement på 8,4. Benchmark 7,7. Gennem flere svære år. Tallet var aldrig målet." |
 | A10 | Fra mavefornemmelse til beslutningsgrundlag: sådan præsenterer du HR-data for ledelsen | K | "Ledelsen husker ikke dine tal. De husker den ene, der ændrede beslutningen." |
 | A11 | Hjerte først, data i hånden | T | "Data fortæller dig hvor. Kun samtalen fortæller dig hvorfor." |
 | A12 | De 3 HR-tal jeg altid kigger på først | P + T | "Hvis du kun måtte følge ét HR-tal, hvilket ville det være?" |
@@ -110,7 +110,7 @@ Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad d
 | 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug dine AI-kurser |
 | 46 | D5 – Career Playground | D | Intern mobilitet: at vise vejen til næste job internt |
-| 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Peakon, Crunchr og exitsamtaler: engagement på 8,5 mod en benchmark på 7,4 og en frivillig personaleomsætning omkring 10 % gennem svære år |
+| 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Peakon, Crunchr og exitsamtaler: engagement på 8,4 mod en benchmark på 7,7 og en frivillig personaleomsætning omkring 10 % gennem svære år |
 | 48 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
 | 49 | E4 – Tak til en tidligere leder | E | Fra Ving: "Service og holdånd har præget mig lige siden" |
 | 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med løn og overenskomster |
