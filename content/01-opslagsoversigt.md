@@ -101,7 +101,7 @@ Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin v
 
 ---
 
-## 3. Forslag til de første 12 uger (tilpasset Tine)
+## 3. Plan for uge 42–52 (tilpasset Tine)
 
 Du har allerede postet tre opslag: "Fra karrierestige til career playground", hvor du fortæller, at du søger job, "Min karriere er blevet til en serie på Netflix" og opslaget om dit 15-års jubilæum. Planen bygger videre på dem, og din profil fortæller allerede karrieren som serie. Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
 
@@ -118,7 +118,7 @@ Du har allerede postet tre opslag: "Fra karrierestige til career playground", hv
 | 50 | **Dilemma 4:** F2 – Fortrolighed | F | En medarbejder betror sig, men det, du får at vide, kræver handling |
 | 51 | A1 – God onboarding (karrusel) | A | Hvad du har set virke fra IC Companys til Randstad |
 | 52 | E5 – Bogen der ændrede mit syn på HR | E | Let opslag i juleugen, der også kan bruges som gaveidé |
-| 1 | B6 – Seniorer på arbejdsmarkedet: vi spilder erfaring | B | Nytår og nye ansættelser: debatemne med stor rækkevidde |
+| 1 | *Afventer* | – | Besluttes senere |
 
 **Fire dilemmaer i perioden** (uge 43, 46, 48 og 50), og fra uge 2 fortsætter de som en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
 
