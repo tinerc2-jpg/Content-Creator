@@ -1,6 +1,6 @@
 # Uge 42 – Facade eller ej? 🎭
 
-**Søjle:** C (jobsøgningsrejsen), kobler til F (dilemmaer) · **Format:** tekst · **Status:** klar til at poste
+**Søjle:** C (jobsøgningsrejsen), kobler til F (dilemmaer) · **Format:** tekst · **Status:** endelig, godkendt af Tine
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–9.00
 
 ## Tines original
@@ -23,7 +23,7 @@
 >
 > #rekruttering #ledelse #kultur #menneskerifokus #jobsøgning #hr
 
-## Version 5: kant med varme (aktuel)
+## Version 5: endelig
 
 Ændringer i forhold til version 3 (og i version 5: afsnit 3 er skrevet om, så du selv står i begge roller, og "Rekrutteren" er væk):
 
@@ -38,7 +38,7 @@
 >
 > For vi spiller jo lidt skuespil. Begge to.
 >
-> Som kandidat har jeg fundet mine bedste historier frem og øvet mig i at lyde rolig og velovervejet. Når jeg selv har ansat, har jeg fortalt om den gode kultur og det stærke team. Det er ment ærligt begge veje, men bagefter ved man tit ikke ret meget mere om hinanden end før.
+> Den ene part har forberedt sine bedste historier. Den anden fortæller om en god kultur og et stærkt team. Alle gør sig umage og smiler pænt, men bagefter ved vi tit ikke ret meget mere om hinanden end før.
 >
 > Og det er synd. For det, vi begge prøver at finde ud af, er jo, om vi får lyst til at arbejde sammen. Det kan man ikke mærke gennem en facade.
 >
@@ -50,9 +50,9 @@
 >
 > #rekruttering #kultur #jobsøgning
 
-**Alternativ til afsnit 3** (mere distance, hvis du ikke vil skrive om dig selv i begge roller):
+**Fravalgt alternativ til afsnit 3:**
 
-> Den ene part har forberedt sine bedste historier. Den anden fortæller om en god kultur og et stærkt team. Alle gør sig umage og smiler pænt, men bagefter ved vi tit ikke ret meget mere om hinanden end før.
+> Som kandidat har jeg fundet mine bedste historier frem og øvet mig i at lyde rolig og velovervejet. Når jeg selv har ansat, har jeg fortalt om den gode kultur og det stærke team. Det er ment ærligt begge veje, men bagefter ved man tit ikke ret meget mere om hinanden end før.
 
 ### Alternative hooks (hvis du vil prøve noget andet end titlen)
 
