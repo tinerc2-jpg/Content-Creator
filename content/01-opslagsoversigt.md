@@ -6,19 +6,20 @@
 
 ---
 
-## 1. Fem indholdssøjler
+## 1. Seks indholdssøjler
 
 | # | Søjle | Andel | Hvad det signalerer til en ny arbejdsgiver |
 |---|-------|-------|--------------------------------------------|
-| A | **HR-faglighed** – konkrete greb, værktøjer og læring | 40 % | "Kan noget – og deler det" |
-| B | **Holdning og trends** – AI i HR, arbejdsmiljø, lovgivning | 20 % | "Følger med og tør mene noget" |
+| A | **HR-faglighed** – konkrete greb, værktøjer, people analytics | 30 % | "Kan noget – og deler det" |
+| B | **Holdning og trends** – AI i HR, arbejdsmiljø, lovgivning | 15 % | "Følger med og tør mene noget" |
 | C | **Jobsøgningsrejsen** – ærlig, konstruktiv, aldrig klagende | 15 % | "Reflekteret, robust, åben for nyt" |
 | D | **Erfaringer og cases** – fra tidligere job (anonymiseret) | 15 % | "Har leveret resultater" |
 | E | **Netværk og anerkendelse** – fremhæv andre, events, kurser | 10 % | "God kollega, bygger relationer" |
+| F | **HR-generalistens dilemmaer** – når der ikke er et rigtigt svar | 15 % | "Har stået i det og tør vise, hvordan hun tænker" |
 
 ---
 
-## 2. Idébank – 30 opslag
+## 2. Idébank – 42 opslag
 
 Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P** = afstemning · **V** = kort video
 
@@ -34,6 +35,10 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | A6 | 3 HR-nøgletal enhver leder bør kende | K | "Personaleomsætning er ikke et HR-tal. Det er et ledelsestal." |
 | A7 | Kandidatoplevelsen: hvad kandidater husker om jer | T | "Alle kandidater, I siger nej til, fortæller om jer bagefter." |
 | A8 | Fravær og sygefravær – den gode omsorgssamtale | T | "Omsorgssamtaler handler ikke om kontrol." |
+| A9 | People analytics uden et analytics-team | K | "Hos Randstad havde jeg ikke en data-afdeling. Jeg havde Excel og nysgerrighed." |
+| A10 | Fra mavefornemmelse til beslutningsgrundlag: sådan præsenterer du HR-data for ledelsen | K | "Ledelsen husker ikke dine tal. De husker den ene, der ændrede beslutningen." |
+| A11 | Hjerte først, data i hånden | T | "Data fortæller dig hvor. Kun samtalen fortæller dig hvorfor." |
+| A12 | De 3 HR-tal jeg altid kigger på først | P + T | "Hvis du kun måtte følge ét HR-tal, hvilket ville det være?" |
 
 ### B. Holdning og trends
 
@@ -77,6 +82,21 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | E5 | Bogen der ændrede mit syn på HR | B + T | "Hvis du kun læser én HR-bog i år…" |
 | E6 | Spørg mig om alt om HR – åben Q&A | T | "Jeg svarer på alle spørgsmål i kommentarerne i dag." |
 
+### F. HR-generalistens dilemmaer
+
+Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin vej, og hvordan du selv tænker. Afslut med "Hvad ville du gøre?". Alle cases anonymiseres.
+
+| # | Opslag | Format | Hook |
+|---|--------|--------|------|
+| F1 | Hvem er HR's kunde: ledelsen eller medarbejderen? | P + T | "Jeg bliver spurgt om det hele tiden. Mit svar er: begge. Og det er netop dilemmaet." |
+| F2 | Fortrolighed: en medarbejder betror sig, men det, hun fortæller, kræver handling | T | "'Du må ikke sige det til nogen.' Den sætning har givet mig flere søvnløse nætter end nogen fyringsrunde." |
+| F3 | Lederen vil fyre i dag. Processen siger om tre måneder. | T | "Der er en forskel på at være lederens partner og lederens forlængede arm." |
+| F4 | Det akutte versus det langsigtede | T | "Når kalenderen er fuld af brandslukning, hvem bygger så brandvæsnet?" |
+| F5 | Ekspert i alt, specialist i intet? | T | "Om formiddagen overenskomst. Om eftermiddagen strategi. Om aftenen en svær samtale." |
+| F6 | Når du selv er HR-afdelingen: hvem er HR for HR? | T | "Hvem tager du den svære samtale med, når det er dig, der plejer at tage dem?" |
+| F7 | Ens regler for alle, eller hensyn til den enkelte? | P + T | "Retfærdighed er ikke altid det samme som lighed." |
+| F8 | Medarbejderen og lederen er venner. Konflikten er reel. | T | "Det sværeste ved at være neutral er, at ingen tror, du er det." |
+
 ---
 
 ## 3. Forslag til de første 12 uger (tilpasset Tine)
@@ -90,13 +110,15 @@ Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad d
 | 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug dine AI-kurser |
 | 46 | D5 – Career Playground | D | Intern mobilitet: at vise vejen til næste job internt |
-| 47 | A1 – God onboarding (karrusel) | A | Hvad du har set virke på tværs af lande, fra IC Companys til Randstad |
-| 48 | B3 – Kulturelt match (afstemning) | B | Fra mode og retail til rekruttering: hvad "passer ind" betyder |
+| 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Hvordan du brugte data hos Randstad til at give ledelsen bedre beslutninger |
+| 48 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
 | 49 | E4 – Tak til en tidligere leder | E | Fra Ving: "Service og holdånd har præget mig lige siden" |
 | 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med løn og overenskomster |
-| 51 | D2 – "Fra intention til handling" | D | Værdier skal leves indadtil, ikke kun mod kunderne. Generel vinkel uden navnet på virksomheden |
+| 51 | F4 – Det akutte versus det langsigtede | F | Dit eget dilemma som HR med eneansvar hos Randstad |
 | 52 | Bag kameraet: golf, krimi og hvidvin | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
 | 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |
+
+**Fra uge 2:** Dilemmaerne (F) bliver en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
 
 -----|--------|-------|------------|
 | 42 | C1 – Launch-opslag | C | Sætter rammen; netværket hjælper typisk et "open to work"-opslag godt på vej |

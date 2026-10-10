@@ -27,6 +27,8 @@
 - M&A og integration
 - Talent acquisition: intern rekruttering og test af ledere, specialister og direktører
 - Overenskomster og samarbejde med fagforeninger
+- People analytics: brugt meget hos Randstad til at give ledelsen beslutningsgrundlag
+- HR-generalist med eneansvar: fra strategi i ledelsen til drift, jura og den svære samtale
 - AI i HR (har taget kurser)
 - Sprog: svensk
 
