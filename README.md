@@ -9,4 +9,8 @@
 | [data/posts.csv](data/posts.csv) | Opslagsplan og reach-data pr. opslag. Det er datakilden til dashboardet |
 | [data/profil.csv](data/profil.csv) | Følgere og forbindelser over tid |
 
-**Næste skridt:** profildata → færdigskrevne opslag → reach-dashboard.
+**Dashboard:** [Tines LinkedIn-reach](https://claude.ai/artifact/ASFHv1K2J9ooRbCoYCGNue) viser reach pr. opslag. Det er privat, indtil det deles.
+
+**Sådan opdateres tallene:** Ret `data/posts.csv` og `data/profil.csv`, kør `python3 tools/csv_til_json.py build`, og upload de to JSON-filer til dashboardet.
+
+**Næste skridt:** fine-tuning af opslagene.
