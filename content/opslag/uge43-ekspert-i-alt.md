@@ -11,6 +11,8 @@
 >
 > I mange år har jeg haft ansvaret for hele HR-området med et lille team ved min side. Om morgenen kunne det være en overenskomst, der skulle fortolkes. Til frokost et ledermøde om en organisationsændring. Ind imellem sparringsdialoger med ledere og medarbejdere om alt fra rekruttering og trivsel til bonusstruktur og lønrammer. Og sidst på dagen en svær samtale med en medarbejder, der havde det skidt.
 >
+> Planen for dagen holdt sjældent. Der kom altid en leder i døren eller en sag, der ikke kunne vente. Og midt i det uforudsigelige skulle de store beslutninger også implementeres, så de rent faktisk blev til noget i hverdagen.
+>
 > Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
 >
 > Men der er en bagside. Når man har det hele, kan man ikke være den dygtigste til det hele. Jeg har måttet lære at kende mine grænser og vide, hvornår jeg skal hente en specialist ind.
