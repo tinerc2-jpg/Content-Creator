@@ -9,7 +9,7 @@
 >
 > Sådan kan det godt føles at være HR-generalist.
 >
-> I mange år har jeg haft ansvaret for hele HR-området med et lille team ved min side. Om morgenen kunne det være en overenskomst, der skulle fortolkes. Til frokost et ledermøde om en organisationsændring. Ind imellem sparringsdialoger med ledere og medarbejdere om alt fra rekruttering og trivsel til bonusstruktur og lønrammer. Og sidst på dagen en svær samtale med en medarbejder, der havde det skidt.
+> I mange år har jeg stået for hele HR-området med et lille team ved min side. Den ene time handlede det om overenskomster og lønrammer, den næste om en organisationsændring eller en medarbejder, der havde det svært. Og så alt det midt imellem, fra rekruttering og trivsel til bonusstruktur og sparring med ledere og medarbejdere.
 >
 > Og så var der alle dem, der lige stak hovedet ind ad døren. Dagen blev sjældent, som jeg havde planlagt, og det har jeg det helt fint med. Jeg trives med tempo, uforudsigelighed og mange opgaver i gang på samme tid. Og jeg sørger for, at tingene rent faktisk sker, også når kalenderen ligner et kludetæppe.
 >
