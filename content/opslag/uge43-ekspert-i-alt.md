@@ -1,9 +1,9 @@
 # Uge 43 – Ekspert i alt, specialist i intet? 🤹
 
-**Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** udkast 3, tilpasset ansøgningerne til en TA-lederrolle og en strategisk P&O-partnerrolle
+**Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** klar, godkendt af Tine (udkast 3, tilpasset en TA-lederrolle)
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–8.30
 
-## Udkast 3: tilpasset ansøgningerne (aktuel)
+## Endelig version: tilpasset ansøgningerne
 
 Opslaget skal også virke, når en ansættende leder klikker ind på din profil. Det skal derfor vise to ting: at du har dybde i rekruttering (TA-lederrollen), og at du er en strategisk partner for ledelsen med blik for organisation og data (P&O-partnerrollen). Ingen virksomheder eller stillinger nævnes.
 
