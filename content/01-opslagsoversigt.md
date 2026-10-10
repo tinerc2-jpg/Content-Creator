@@ -1,7 +1,7 @@
 # Opslagsoversigt – LinkedIn-contentbibliotek (HR)
 
 > **Mål:** Styrke dit personlige brand som HR-profil, mens du søger job – så rekrutterere, HR-chefer og ledere ser dig som en skarp, nysgerrig og handlingsorienteret HR-person.
-> **Rytme:** Mindst 1 opslag om ugen (ideelt 2 i de første 8 uger for at få algoritmen i gang).
+> **Rytme:** 1 opslag om ugen, på dansk.
 > **Status:** Udkast v2. Tilpasset din profil, se [00-profil.md](00-profil.md). Positionering: *Leading with heart and data*.
 
 ---
@@ -35,7 +35,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | A6 | 3 HR-nøgletal enhver leder bør kende | K | "Personaleomsætning er ikke et HR-tal. Det er et ledelsestal." |
 | A7 | Kandidatoplevelsen: hvad kandidater husker om jer | T | "Alle kandidater, I siger nej til, fortæller om jer bagefter." |
 | A8 | Fravær og sygefravær – den gode omsorgssamtale | T | "Omsorgssamtaler handler ikke om kontrol." |
-| A9 | People analytics uden et analytics-team | K | "Engagement på 8,4. Benchmark 7,7. Gennem flere svære år. Tallet var aldrig målet." |
+| A9 | People analytics uden et analytics-team | K | "Peakon sagde én ting. Exitsamtalerne sagde det samme. Så omstrukturerede vi." |
 | A10 | Fra mavefornemmelse til beslutningsgrundlag: sådan præsenterer du HR-data for ledelsen | K | "Ledelsen husker ikke dine tal. De husker den ene, der ændrede beslutningen." |
 | A11 | Hjerte først, data i hånden | T | "Data fortæller dig hvor. Kun samtalen fortæller dig hvorfor." |
 | A12 | De 3 HR-tal jeg altid kigger på først | P + T | "Hvis du kun måtte følge ét HR-tal, hvilket ville det være?" |
@@ -55,7 +55,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 
 | # | Opslag | Format | Hook |
 |---|--------|--------|------|
-| C1 | **Launch-opslag:** "Jeg er klar til mit næste kapitel" | B + T | "Efter X år i [rolle] søger jeg nu ny udfordring – og her er, hvad jeg brænder for." |
+| C1 | ~~Launch-opslag~~ (postet: "Fra karrierestige til career playground" og "Min karriere er blevet til en serie på Netflix") | – | – |
 | C2 | Hvad jeg har lært om rekruttering ved at være kandidat selv | T | "Jeg har siddet på begge sider af bordet. Kandidatsiden er sværere." |
 | C3 | Mine 3 bedste og 3 værste ansøgningsprocesser (anonymt) | K | "Én virksomhed svarede aldrig. En anden sendte en personlig video." |
 | C4 | Hvad jeg bruger min tid på mellem jobs (kurser, netværk, frivilligt) | B + T | "Ledighed er ikke pause. Det er efteruddannelse med åben kalender." |
@@ -101,21 +101,21 @@ Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin v
 
 ## 3. Forslag til de første 12 uger (tilpasset Tine)
 
-Du har allerede postet, at du søger job ("Fra karrierestige til career playground"), og et opslag om dit 15-års jubilæum. Planen bygger videre på dem. Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
+Du har allerede postet tre opslag: "Fra karrierestige til career playground", hvor du fortæller, at du søger job, "Min karriere er blevet til en serie på Netflix" og opslaget om dit 15-års jubilæum. Planen bygger videre på dem, og din profil fortæller allerede karrieren som serie. Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
 
 | Uge | Opslag | Søjle | Din vinkel |
 |-----|--------|-------|------------|
 | 42 | C2 – "Facade eller ej?" | C | **Klar til at poste.** Se [opslag/uge42-facade-eller-ej.md](opslag/uge42-facade-eller-ej.md) |
-| 43 | C1 – Videoen "Min karriere er blevet en serie" | C | Opfølgning på dit opslag om, at du søger job. Upload videoen direkte på LinkedIn (ikke som link) og slut med "Sæson 4: casting i gang" |
-| 44 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
-| 45 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
-| 46 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator |
-| 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Peakon, Crunchr og exitsamtaler: engagement på 8,4 mod en benchmark på 7,7 og en frivillig personaleomsætning omkring 10 % gennem svære år |
-| 48 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
-| 49 | Piloten: hvad Ving lærte mig om HR | D | Charterrejser, service og holdånd, og hvorfor gæsteoplevelse og medarbejderoplevelse hænger sammen |
-| 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med jobklassificering og lønstruktur |
-| 51 | F4 – Det akutte versus det langsigtede | F | Dit eget dilemma som HR med eneansvar hos Randstad |
-| 52 | Bag kameraet: golf, sport og krimi | E | Let og personligt opslag i juleugen ("the swing is still a work in progress") |
+| 43 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
+| 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
+| 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator |
+| 46 | A9 – Når data og samtaler peger samme vej (karrusel) | A | Peakon-engagement og exitsamtaler viste et mønster, der førte til en omstrukturering. Gennemsnitligt engagement på 8,4 mod en benchmark på 7,7 |
+| 47 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
+| 48 | Piloten: hvad Ving lærte mig om HR | D | Charterrejser, service og holdånd, og hvorfor gæsteoplevelse og medarbejderoplevelse hænger sammen |
+| 49 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med jobklassificering og lønstruktur |
+| 50 | F4 – Det akutte versus det langsigtede | F | Dit eget dilemma som HR med eneansvar hos Randstad |
+| 51 | A1 – God onboarding (karrusel) | A | Hvad du har set virke fra IC Companys til Randstad |
+| 52 | Bag kameraet: golf, sport og krimi | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
 | 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |
 
 **Fra uge 2:** Dilemmaerne (F) bliver en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
@@ -137,10 +137,29 @@ Du har allerede postet, at du søger job ("Fra karrierestige til career playgrou
 
 ## 5. Det måler vi på (grundlaget for dashboardet)
 
-For hvert opslag registrerer vi efter **48 timer** og igen efter **7 dage**:
+Mål hvert opslag efter **7 dage**, og opdatér tallene, hvis du kigger igen senere. Notér datoen for målingen.
 
 | Måltal | Hvor finder du det |
 |--------|--------------------|
+| Eksponeringer | Opslag → "Vis analyse" |
+| Reaktioner, kommentarer, genopslag | Samme sted |
+| Profilvisninger fra opslaget | Samme sted |
+| Nye følgere | Samme sted |
+| **Engagementsrate** = (reaktioner + kommentarer + genopslag) / eksponeringer | Beregnes i dashboardet |
+| Henvendelser fra rekrutterere / samtaler | Noterer du selv |
+
+Opslagene samles i [`data/posts.csv`](../data/posts.csv). Antal følgere og forbindelser noteres hver måned i [`data/profil.csv`](../data/profil.csv).
+
+**Nulpunkt (10. oktober 2026):**
+
+| Opslag | Eksponeringer | Reaktioner | Kommentarer | Engagementsrate |
+|--------|--------------:|-----------:|------------:|----------------:|
+| Fra karrierestige til career playground (ca. august 2026) | 15.598 | 173 | 129 | 1,9 % |
+| Min karriere er blevet til en serie på Netflix (5. oktober 2026, målt efter 5 dage) | 14.804 | 232 | 37 | 1,8 % |
+
+Begge opslag har rigtig god rækkevidde for en profil med ca. 3.200 følgere. Karrierestige-opslaget fik mange flere kommentarer, sandsynligvis fordi det sluttede med en direkte opfordring ("Kender du nogen, der kender nogen?"). Det er værd at gentage.
+
+--------|--------------------|
 | Visninger (impressions) | Opslag → "Vis analyse" |
 | Unikke seere (members reached) | Samme sted |
 | Reaktioner, kommentarer, genopslag | Samme sted |
@@ -156,9 +175,5 @@ Data samles i [`data/posts.csv`](../data/posts.csv), som dashboardet læser fra.
 
 ## Det mangler jeg stadig
 
-Din profil er nu samlet i [00-profil.md](00-profil.md), inkl. tal fra Randstad. For at skrive opslagene færdige mangler jeg:
-
-1. **Har du flere tal for Career Playground**, fx hvor mange der brugte den, eller hvor mange interne skift der kom ud af den?
-2. **Har du allerede lagt "Sæson 4"-videoen op?** Hvis ja, rykker Great Conversations frem til uge 43.
-3. **Tal og datoer for dine to postede opslag**: visninger, reaktioner, kommentarer og genopslag. De bliver dit nulpunkt i dashboardet.
-4. **Antal følgere i dag.**
+- **Den præcise dato** for "Fra karrierestige til career playground".
+- **Emner du ikke vil skrive om.** Vi vender tilbage til det senere.

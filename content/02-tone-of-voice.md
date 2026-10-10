@@ -1,6 +1,7 @@
 # Tone of voice – Tine Ryg Cebrian
 
-> Bygget på tre af Tines egne opslag:
+> Bygget på fire af Tines egne opslag:
+> - "Min karriere er blevet til en serie på Netflix" (oktober 2026)
 > - "Why colleagues are the true MVPs" (15-års jubilæum, 2025)
 > - "Fra karrierestige til career playground – tak til dem, der gjorde det virkeligt"
 > - "Facade eller ej?" (ikke postet endnu)
@@ -19,7 +20,12 @@
 4. **2–4 korte afsnit** med ét billede eller én pointe hver. Ingen punktopstillinger.
 5. **Konkrete, sanselige billeder:** "den professionelle rustning ude i gangen", "en god kop kaffe, et grin og en ærlig snak", "sænker skuldrene"
 6. **Afslutning der peger fremad eller giver tak:** ofte med 💙
-7. **Blød opfordring til at handle:** "Kender du nogen, der kender nogen?"
+7. **Blød opfordring til at handle:** "Kender du nogen, der kender nogen?", "Måske er det dig, der har manuskriptet til sæson 4."
+8. **Tak til en konkret person**, når nogen har hjulpet, med tag
+
+## Selvironi og leg
+
+"Ikke for sjov, eller jo, også lidt for sjov." Tine griner gerne af sig selv og af branchen, fx af de generiske profilord: "Dynamisk og dedikeret og strategisk. Det er sikkert rigtigt, men man husker det ikke." Brug en legende ramme som Netflix-serien, når det passer, men højst hver 4.–5. uge, så den ikke bliver slidt.
 
 ## Ord og temaer, der går igen
 
@@ -38,7 +44,7 @@
 - Brug humor og varme
 - Hold afsnittene korte, så der er luft
 - Brug 1–3 emojis pr. opslag; 💙 er Tines signatur
-- Skriv på dansk til danske opslag og på engelsk til internationale
+- Skriv altid på dansk
 
 ## Undgå
 

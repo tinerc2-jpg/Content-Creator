@@ -27,7 +27,7 @@
 
 Teksten er stadig din. Der er kun tre ændringer:
 
-1. Linje 2 har fået et tal. Det gør hooket stærkere, og der står kun "hundredvis", fordi jeg ikke kender det præcise antal. Ret det til dit eget tal.
+1. Linje 2 har fået et tal ("hundredvis af jobsamtaler"). Det gør hooket stærkere.
 2. Opslaget slutter med et spørgsmål, der inviterer til kommentarer.
 3. Der er nu 3 hashtags i stedet for 6.
 

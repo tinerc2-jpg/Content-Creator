@@ -9,7 +9,7 @@
 
 **Målroller:** HR Director / Head of People, Senior HR Business Partner og Talent Acquisition-leder i Storkøbenhavn. Kan starte med det samme.
 
-**LinkedIn-profilen er på engelsk** og fortæller karrieren som en serie: "Now streaming: the story of an HR partner who leads with heart and data."
+**LinkedIn-profilen er på engelsk** (opslagene er på dansk). Overskriften er "Strategic HR Business Partner | Leading with Heart and Data". Profilen og fortæller karrieren som en serie: "Now streaming: the story of an HR partner who leads with heart and data."
 
 **Løftet i About:** HR tæt på arbejdet, en ærlig sparringspartner, der lytter først, og medarbejdere, der vælger at blive, fordi de kan se deres næste skridt. "We don't just hire for a job, we hire for a career."
 
@@ -29,8 +29,8 @@
 
 - **Great Conversations:** Randstad besluttede globalt at erstatte de årlige MUS-samtaler med kvartalsvise, mere uformelle samtaler. Tine trænede ledere og medarbejdere i Danmark i den nye måde at tænke udvikling på. Konceptet bruges nu i hele organisationen.
 - **Career Playground:** Tine byggede og rullede en ikke-hierarkisk model for karriereudvikling ud. Medarbejderne fik selv ejerskab over deres udvikling i stedet for en fast karrierestige.
-- **People analytics:** Kvartalsvise Peakon-målinger, Crunchr og exitsamtaler blev brugt til at finde mønstre, udfordre antagelser og omsætte data til ledelsesbeslutninger. Engagementsmålingen blev et ledelsesværktøj: man anerkender medarbejdernes svar og handler på dem, ikke kun på tallet.
-- **Resultat:** Den frivillige personaleomsætning lå omkring 10 %, og Peakon-engagementet på 8,4 (benchmark 7,7). Tallene er fra LinkedIn-profilen; et CV siger 8,5 mod 7,4, se "Vær opmærksom på". Det holdt gennem flere økonomisk svære år.
+- **People analytics:** Kvartalsvise Peakon-målinger, Crunchr og exitsamtaler blev brugt til at finde mønstre, udfordre antagelser og omsætte data til ledelsesbeslutninger. Et konkret eksempel: Peakon-engagement og exitsamtaler pegede samme vej, og det førte til en omstrukturering. Engagementsmålingen blev et ledelsesværktøj: man anerkender medarbejdernes svar og handler på dem, ikke kun på tallet.
+- **Resultat:** Den frivillige personaleomsætning lå omkring 10 %, og det gennemsnitlige Peakon-engagement på 8,4 mod en benchmark på 7,7. Det holdt gennem flere økonomisk svære år.
 - **Øvrige indsatser:**
   - Randstad Leadership Framework
   - Nyt EVP (employer value proposition)
@@ -85,14 +85,14 @@ Profilbilledet er et smilende portræt i et lyst kontormiljø med en blå/turkis
 ## Vær opmærksom på
 
 - **Fritstilling:** Tine er fritstillet fra Randstad indtil 28. februar 2027. Opslag om Randstad skal handle om egne resultater og læring, ikke om interne forhold.
-- **Peakon-tallene er ikke ens:** LinkedIn siger 8,4 mod en benchmark på 7,7. Et CV siger 8,5 mod 7,4. Opslagene bruger LinkedIn-tallene, indtil Tine har bekræftet de rigtige.
+- **Faste tal:** Peakon er altid "gennemsnit 8,4 mod en benchmark på 7,7", og den frivillige personaleomsætning er "omkring 10 %". CV'et til Impact Fund Denmark skal rettes fra 8,5/7,4.
+- **Sprog:** Alle opslag skrives på dansk.
 - **LinkedIn-URL:** CV'erne bruger to forskellige: `linkedin.com/in/tinerygcebrian` og `linkedin.com/in/tinerc`. Tjek hvilken der virker, og brug den samme overalt.
 
 ## Eksisterende materiale, der kan genbruges
 
 | Materiale | Kan blive til |
 |-----------|---------------|
-| Videoen "Min karriere er blevet en serie" (9:16, ca. 54 sek.) | Launch-opslaget |
 | Case-præsentationen: "Fra intention til handling" og "Det akutte versus det langsigtede" | Opslag om at gøre værdier til hverdag |
 | Ansøgningen til en TA-lederrolle ("I come from the other side of the table") | Opslag om rekruttering indefra |
 | Netværksoversigten | Målgruppe for engagement: CHRO'er, headhuntere og tidligere kolleger |
