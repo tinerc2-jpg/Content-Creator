@@ -17,7 +17,7 @@
 >
 > Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og ret god til at finde svar, men det kan også være ensomt at være den, der skal vide det hele.
 >
-> Og så er der jobmarkedet. Mange jobopslag leder efter specialister, og som generalist kan man godt komme til at føle sig lidt for bred.
+> Og så er der jobmarkedet. Mange jobopslag leder efter specialister, og som generalist kan man godt komme i tvivl om, hvor man passer ind.
 >
 > Alligevel er jeg blevet mere og mere sikker på, at bredden er en styrke. En generalist ser sammenhængene. Når der kommer en ny lønstruktur, ved jeg, hvad den betyder for trivslen og for samtalerne med lederne bagefter. Og når en organisation bliver lavet om, kender jeg både regnearket og de mennesker, det handler om.
 >
