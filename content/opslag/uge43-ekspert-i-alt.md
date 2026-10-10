@@ -1,9 +1,9 @@
 # Uge 43 – Ekspert i alt, specialist i intet? 🤹
 
-**Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** udkast 2
+**Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** klar, godkendt af Tine
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–8.30
 
-## Udkast 2
+## Endelig version
 
 > Ekspert i alt, specialist i intet? 🤹
 >
@@ -15,7 +15,7 @@
 >
 > Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
 >
-> Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og ret god til at finde svar, men det kan også være ensomt at være den, der skal vide det hele.
+> Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og ret god til at finde svar, men det kræver, at man tør stå med beslutningerne selv.
 >
 > Og så er der jobmarkedet. Mange jobopslag leder efter specialister, og som generalist kan man godt komme i tvivl om, hvor man passer ind.
 >
@@ -24,10 +24,5 @@
 > Så ja, jeg er generalist. Og når jeg ikke kender svaret, finder jeg det 😄
 >
 > #hr #hrgeneralist #ledelse
-
-## Valg der mangler
-
-- **Afsnittet om forstyrrelser:** A står i teksten, med slutningen "uanset hvor mange gange døren går op".
-- **Bagsiden:** "ensomt" står i teksten. Alternativ: "… men det kræver, at man tør stå med beslutningerne selv."
 
 Gennemgået for AI-sprog efter [tone of voice-guiden](../02-tone-of-voice.md).
