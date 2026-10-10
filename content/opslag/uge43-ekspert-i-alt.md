@@ -9,7 +9,7 @@
 >
 > Sådan kan det godt føles at være HR-generalist.
 >
-> I mange år har jeg haft ansvaret for hele HR-området med et lille team ved min side. Om morgenen kunne det være en overenskomst, der skulle fortolkes. Til frokost et ledermøde om organisationen. Og sidst på dagen en svær samtale med en medarbejder, der havde det skidt.
+> I mange år har jeg haft ansvaret for hele HR-området med et lille team ved min side. Om morgenen kunne det være en overenskomst, der skulle fortolkes. Til frokost et ledermøde om en organisationsændring. Og sidst på dagen en svær samtale med en medarbejder, der havde det skidt.
 >
 > Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
 >
