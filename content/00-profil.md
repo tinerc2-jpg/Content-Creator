@@ -9,7 +9,7 @@
 
 **Målroller:** HR Director / Head of People, Senior HR Business Partner og Talent Acquisition-leder i Storkøbenhavn. Kan starte med det samme.
 
-**LinkedIn-profilen er på engelsk** (opslagene er på dansk). Overskriften er "Strategic HR Business Partner | Leading with Heart and Data". Profilen og fortæller karrieren som en serie: "Now streaming: the story of an HR partner who leads with heart and data."
+**LinkedIn-profilen er på engelsk** (opslagene er på dansk). Overskriften er "Strategic HR Business Partner | Leading with Heart and Data". Profilen fortæller karrieren som en serie: "Now streaming: the story of an HR partner who leads with heart and data."
 
 **Løftet i About:** HR tæt på arbejdet, en ærlig sparringspartner, der lytter først, og medarbejdere, der vælger at blive, fordi de kan se deres næste skridt. "We don't just hire for a job, we hire for a career."
 
