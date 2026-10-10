@@ -2,7 +2,7 @@
 
 > **Mål:** Styrke dit personlige brand som HR-profil, mens du søger job – så rekrutterere, HR-chefer og ledere ser dig som en skarp, nysgerrig og handlingsorienteret HR-person.
 > **Rytme:** Mindst 1 opslag om ugen (ideelt 2 i de første 8 uger for at få algoritmen i gang).
-> **Status:** Udkast v1. Bygget på generel HR-viden, fordi jeg endnu ikke har adgang til din profil – se [Det har jeg brug for fra dig](#det-har-jeg-brug-for-fra-dig).
+> **Status:** Udkast v2. Tilpasset din profil, se [00-profil.md](00-profil.md). Positionering: *Leading with heart and data*.
 
 ---
 
@@ -79,12 +79,26 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 
 ---
 
-## 3. Forslag til de første 12 uger
+## 3. Forslag til de første 12 uger (tilpasset Tine)
 
-Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach).
+Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
 
-| Uge | Opslag | Søjle | Hvorfor nu |
+| Uge | Opslag | Søjle | Din vinkel |
 |-----|--------|-------|------------|
+| 42 | C1 – Launch: "Min karriere er blevet en serie" | C | Du har allerede videoen. Upload den direkte på LinkedIn (ikke som link) og slut med "Sæson 4: casting i gang" |
+| 43 | D1 – Great Conversations | D | Hvordan du byggede et samtalekoncept uden en stor HR-afdeling bag dig. Før og efter, gerne med tal |
+| 44 | A6 – "Flere siger op. Her er hvorfor." (karrusel) | A | Din analyse af personaleomsætning i en kort udgave: lønstigning og overarbejde forudsiger flere opsigelser end lønniveauet |
+| 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug dine AI-kurser |
+| 46 | D5 – Career Playground | D | Intern mobilitet: at vise vejen til næste job internt |
+| 47 | A3 – Teamlederne går først | A | Mellemlederen som det svageste led i fastholdelse |
+| 48 | B3 – Kulturelt match (afstemning) | B | Fra mode og retail til rekruttering: hvad "passer ind" betyder |
+| 49 | E4 – Tak til en tidligere leder | E | Fra Ving: "Service og holdånd har præget mig lige siden" |
+| 50 | B2 – Løngennemsigtighed | B | Kobl direktivet til lønforskelle mellem kønnene, som du har set i data |
+| 51 | D2 – "Fra intention til handling" | D | Værdier skal leves indadtil, ikke kun mod kunderne. Generel vinkel uden navnet på virksomheden |
+| 52 | Bag kameraet: golf, krimi og hvidvin | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
+| 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |
+
+-----|--------|-------|------------|
 | 42 | C1 – Launch-opslag | C | Sætter rammen; netværket hjælper typisk et "open to work"-opslag godt på vej |
 | 43 | A1 – God onboarding (karrusel) | A | Viser faglighed med det samme |
 | 44 | B1 – AI i rekruttering | B | Højaktuelt emne → reach |
@@ -132,13 +146,10 @@ Data samles i [`data/posts.csv`](../data/posts.csv), som dashboardet læser fra.
 
 ---
 
-## Det har jeg brug for fra dig
+## Det mangler jeg stadig
 
-Repositoriet er tomt, og jeg kan ikke se din LinkedIn-profil, så jeg kender ikke din baggrund. For at gøre opslagene personlige og troværdige skal jeg bruge:
+Din profil er nu samlet i [00-profil.md](00-profil.md). For at skrive opslagene færdige mangler jeg:
 
-1. **Din LinkedIn-profil**: kopiér "Om", erfaring og uddannelse ind her, eller gem din profil som PDF (Profil → Mere → Gem som PDF) og læg den i repoet.
-2. **Den rolle du søger**: fx HR-partner, rekrutteringskonsulent, HR-chef, people & culture eller L&D.
-3. **2–3 resultater du er stolt af**, gerne med tal.
-4. **Din tone**: faglig og rolig, varm og personlig, eller skarp og debatterende.
-5. **Dine nuværende tal**: antal følgere og forbindelser, og hvor ofte du poster i dag.
-6. **Grænser**: emner eller tidligere arbejdsgivere, du *ikke* vil nævne.
+1. **Tal fra Randstad** for Great Conversations og Career Playground: deltagere, engagement, fastholdelse eller lignende.
+2. **Har du allerede lagt "Sæson 4"-videoen op?** Hvis ja, bliver uge 42 til opslaget om Great Conversations.
+3. **Dine nuværende LinkedIn-tal**: antal følgere og gennemsnitlige visninger pr. opslag. Det bliver dit nulpunkt i dashboardet.
