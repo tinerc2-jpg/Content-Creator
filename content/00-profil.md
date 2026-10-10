@@ -1,6 +1,6 @@
 # Profil – Tine Ryg Cebrian
 
-> Grundlaget for alt indhold. Samlet ud fra Tines egne materialer: karrierevideoen "Sæson 4", jobsøgnings-trackeren, og case-præsentationen.
+> Grundlaget for alt indhold. Samlet ud fra Tines egne materialer: karrierevideoen "Sæson 4", jobsøgnings-trackeren og case-præsentationen.
 > Repoet er offentligt, så her står kun det, der også kan stå på LinkedIn. Der er ingen ansøgninger, afslag eller kontaktpersoner.
 
 ## Positionering
