@@ -32,6 +32,7 @@ Det er stadig din tekst og din tone. Ændringerne:
 3. **[Valgfrit] Én konkret detalje** fra din tid som hiring manager. Den gør historien til din. Brug den kun, hvis den passer, ellers slet linjen.
 4. **Et spørgsmål til sidst, der er let at svare på.** Det koster ikke meget at svare med et kort eksempel.
 5. **3 hashtags i stedet for 6.**
+6. **Gennemgået for AI-sprog** efter tjeklisten i [tone of voice-guiden](../02-tone-of-voice.md).
 
 Teksten er ca. 1.150 tegn.
 
@@ -45,7 +46,7 @@ Teksten er ca. 1.150 tegn.
 >
 > [Valgfrit] Som hiring manager lærte jeg ofte mest om en kandidat i de få minutter, hvor samtalen egentlig var slut, og vi bare snakkede.
 >
-> Det er i de øjeblikke, hvor vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Dér bliver kulturen tydelig, og dér opstår den kemi, som intet CV i verden kan beskrive.
+> Det er i de øjeblikke, hvor vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Det er der, kulturen bliver tydelig, og der, den kemi opstår, som intet CV i verden kan beskrive.
 >
 > Når man føler sig velkommen, åbner man op. Nysgerrigheden tager over, og så bliver det meget nemmere at se de faktiske kompetencer og det reelle potentiale i stedet for blot at gå en tjekliste igennem.
 >
@@ -53,7 +54,7 @@ Teksten er ca. 1.150 tegn.
 >
 > De bedste samtaler starter med en god kop kaffe, et grin og en ærlig snak. Det er den kultur, jeg leder efter i mit næste eventyr, og som jeg selv tager med til bordet 💙
 >
-> Rekrutterer eller kandidat: hvornår faldt facaden sidst for dig i en jobsamtale?
+> Hvornår faldt facaden sidst for dig i en jobsamtale, som rekrutterer eller som kandidat?
 >
 > #rekruttering #kultur #jobsøgning
 

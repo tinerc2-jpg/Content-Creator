@@ -51,8 +51,34 @@
 - HR-jargon og konsulentsprog: "leverance", "stakeholder management", "værdiskabelse"
 - Lange punktlister (bruges kun i karruseller)
 - At lyde bitter eller klagende over jobsøgningen
+- AI-sprog, se afsnittet "Fri for AI-sprog"
 - Mere end 3 hashtags. "Facade eller ej" har 6, og det trækker opslaget ned
 - At afsløre interne forhold fra Randstad: Tine er fritstillet indtil 28. februar 2027
+
+## Fri for AI-sprog (gælder alle opslag)
+
+Opslagene skal lyde som Tine, ikke som en maskine. Før et opslag er klar, gennemgås det for følgende:
+
+**Ord og vendinger, der ikke bruges**
+- "dykke ned i", "navigere", "landskab", "rejse" (om karriere), "nøglen til", "game changer", "holistisk", "fremtidens …", "i en verden hvor …", "i dagens …"
+- "spændende", "værdifuld", "afgørende", "essentiel" og "utrolig" som fyldord
+- "Lad os …" som afslutning og "Det er vigtigt at huske, at …"
+- Engelske buzzwords i danske opslag: "mindset", "impact", "journey", "empower"
+
+**Sætningsmønstre, der ikke bruges**
+- "Det handler ikke om X, men om Y" og "Ikke X. Ikke Y. Men Z."
+- Kolon eller spørgsmål som afsløring: "Resultatet? …", "Her er sagen: …", "Sandheden er: …"
+- Faste tredelte opremsninger ("ærlighed, nærvær og mod") i hvert afsnit
+- Tankestreger som pauser midt i sætninger
+- Gentagne sætningsstarter lige efter hinanden ("Dér … dér …", "Det er … Det er …")
+- Afslutninger, der opsummerer det, der lige er sagt
+- Emojis som punkttegn
+
+**Hellere**
+- Konkrete øjeblikke, tal og repliker fra Tines egen hverdag
+- Almindelige, korte sætninger, som Tine ville sige dem højt
+- Sætninger af forskellig længde, også en enkelt kort sætning alene
+- Et spørgsmål til sidst, som man kan svare på uden at tænke længe
 
 ## Tre forbedringer i forhold til de eksisterende opslag
 
