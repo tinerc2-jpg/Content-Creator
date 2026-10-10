@@ -23,13 +23,17 @@
 >
 > #rekruttering #ledelse #kultur #menneskerifokus #jobsøgning #hr
 
-## Forslag med få justeringer
+## Fine-tunet version (v2)
 
-Teksten er stadig din. Der er kun tre ændringer:
+Det er stadig din tekst og din tone. Ændringerne:
 
-1. Linje 2 har fået et tal ("hundredvis af jobsamtaler"). Det gør hooket stærkere.
-2. Opslaget slutter med et spørgsmål, der inviterer til kommentarer.
-3. Der er nu 3 hashtags i stedet for 6.
+1. **Hooket fylder de første 2–3 linjer**, som er det eneste, folk ser på mobilen før "…se mere". Kontrasten (hundredvis af samtaler, nu i kandidatstolen) kommer allerede i linje 2.
+2. **Mindre gentagelse.** "Mærker" og "rum" stod to gange hver. Nu er de der kun én gang.
+3. **[Valgfrit] Én konkret detalje** fra din tid som hiring manager. Den gør historien til din. Brug den kun, hvis den passer, ellers slet linjen.
+4. **Et spørgsmål til sidst, der er let at svare på.** Det koster ikke meget at svare med et kort eksempel.
+5. **3 hashtags i stedet for 6.**
+
+Teksten er ca. 1.150 tegn.
 
 > Facade eller ej? 🎭
 >
@@ -39,19 +43,30 @@ Teksten er stadig din. Der er kun tre ændringer:
 >
 > Når vi lader den professionelle rustning ligge ude i gangen, sker der noget helt andet i rummet. Det gælder, uanset om man er den, der rekrutterer, eller den, der søger.
 >
-> Det er i de øjeblikke, hvor vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Det er dér, kulturen bliver tydelig, og dér, vi mærker den udefinérbare kemi, som intet CV i verden kan beskrive.
+> [Valgfrit] Som hiring manager lærte jeg ofte mest om en kandidat i de få minutter, hvor samtalen egentlig var slut, og vi bare snakkede.
 >
-> Når man føler sig velkommen, åbner man op. Nysgerrigheden tager over, og det bliver meget nemmere at se de faktiske kompetencer og det reelle potentiale i stedet for blot at gennemgå en tjekliste.
+> Det er i de øjeblikke, hvor vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Dér bliver kulturen tydelig, og dér opstår den kemi, som intet CV i verden kan beskrive.
 >
-> For mig har det altid handlet om at skabe et rum med plads til at være sig selv, uanset hvilken side af bordet jeg sidder på.
+> Når man føler sig velkommen, åbner man op. Nysgerrigheden tager over, og så bliver det meget nemmere at se de faktiske kompetencer og det reelle potentiale i stedet for blot at gå en tjekliste igennem.
+>
+> For mig har det altid handlet om at skabe plads til at være sig selv, uanset hvilken side af bordet jeg sidder på.
 >
 > De bedste samtaler starter med en god kop kaffe, et grin og en ærlig snak. Det er den kultur, jeg leder efter i mit næste eventyr, og som jeg selv tager med til bordet 💙
 >
-> Hvad gør du for at få facaden til at falde i en jobsamtale, uanset hvilken side af bordet du sidder på?
+> Rekrutterer eller kandidat: hvornår faldt facaden sidst for dig i en jobsamtale?
 >
 > #rekruttering #kultur #jobsøgning
 
-## Efter du har postet
+### Alternative hooks (hvis du vil prøve noget andet end titlen)
 
-- Svar på alle kommentarer inden for den første time
-- Notér visninger, reaktioner, kommentarer og profilvisninger efter 48 timer og efter 7 dage i `data/posts.csv`
+- **A – kontrast:** "Hundredvis af jobsamtaler som hiring manager. Nu sidder jeg selv i kandidatstolen. 🎭"
+- **B – øjeblik** (kun hvis det er sandt): "Den bedste jobsamtale, jeg har haft som kandidat, startede med et grin. 🎭"
+- **C – din titel** (anbefalet): "Facade eller ej? 🎭". Den passer til din stil og fungerer godt sammen med linje 2.
+
+## Plan for udgivelsen
+
+- **Hvornår:** tirsdag 13. eller onsdag 14. oktober kl. 7.30–8.30. Netflix-opslaget fra 5. oktober har så haft over en uge alene.
+- **Før du poster:** brug 10 minutter på at kommentere på 3–5 opslag fra HR-folk og rekrutterere i dit netværk.
+- **Efter du har postet:** svar på alle kommentarer inden for den første time, gerne med et modspørgsmål.
+- **Ingen links og ingen tags** i dette opslag. Det handler om dig.
+- **Efter 7 dage:** send mig eksponeringer, reaktioner, kommentarer og genopslag, så opdaterer jeg dashboardet.
