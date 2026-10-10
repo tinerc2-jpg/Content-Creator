@@ -107,18 +107,18 @@ Du har allerede postet tre opslag: "Fra karrierestige til career playground", hv
 |-----|--------|-------|------------|
 | 42 | C2 – "Facade eller ej?" | C | **Klar til at poste.** Se [opslag/uge42-facade-eller-ej.md](opslag/uge42-facade-eller-ej.md) |
 | 43 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
-| 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
+| 44 | **Dilemma 1:** F5 – Ekspert i alt, specialist i intet? | F | Starter serien: hverdagen som HR med eneansvar, fra overenskomst om formiddagen til strategi om eftermiddagen |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator |
 | 46 | A9 – Når data og samtaler peger samme vej (karrusel) | A | Peakon-engagement og exitsamtaler viste et mønster, der førte til en omstrukturering. Gennemsnitligt engagement på 8,4 mod en benchmark på 7,7 |
-| 47 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
+| 47 | **Dilemma 2:** F1 – Hvem er HR's kunde? (afstemning) | F | Ledelsen eller medarbejderen? Afstemninger giver mange visninger |
 | 48 | Piloten: hvad Ving lærte mig om HR | D | Charterrejser, service og holdånd, og hvorfor gæsteoplevelse og medarbejderoplevelse hænger sammen |
-| 49 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med jobklassificering og lønstruktur |
-| 50 | F4 – Det akutte versus det langsigtede | F | Dit eget dilemma som HR med eneansvar hos Randstad |
-| 51 | A1 – God onboarding (karrusel) | A | Hvad du har set virke fra IC Companys til Randstad |
+| 49 | **Dilemma 3:** F4 – Det akutte versus det langsigtede | F | Når brandslukning fylder kalenderen: hvem bygger så brandvæsnet? |
+| 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med jobklassificering og lønstruktur |
+| 51 | **Dilemma 4:** F2 – Fortrolighed | F | En medarbejder betror sig, men det, du får at vide, kræver handling |
 | 52 | Bag kameraet: golf, sport og krimi | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
 | 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |
 
-**Fra uge 2:** Dilemmaerne (F) bliver en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
+**Fire dilemmaer i perioden** (uge 44, 47, 49 og 51), og fra uge 2 fortsætter de som en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
 
 ---
 
