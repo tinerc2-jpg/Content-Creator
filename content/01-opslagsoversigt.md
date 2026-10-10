@@ -87,13 +87,13 @@ Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad d
 |-----|--------|-------|------------|
 | 42 | C1 – Launch: "Min karriere er blevet en serie" | C | Du har allerede videoen. Upload den direkte på LinkedIn (ikke som link) og slut med "Sæson 4: casting i gang" |
 | 43 | D1 – Great Conversations | D | Hvordan du byggede et samtalekoncept uden en stor HR-afdeling bag dig. Før og efter, gerne med tal |
-| 44 | A6 – "Flere siger op. Her er hvorfor." (karrusel) | A | Din analyse af personaleomsætning i en kort udgave: lønstigning og overarbejde forudsiger flere opsigelser end lønniveauet |
+| 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug dine AI-kurser |
 | 46 | D5 – Career Playground | D | Intern mobilitet: at vise vejen til næste job internt |
-| 47 | A3 – Teamlederne går først | A | Mellemlederen som det svageste led i fastholdelse |
+| 47 | A1 – God onboarding (karrusel) | A | Hvad du har set virke på tværs af lande, fra IC Companys til Randstad |
 | 48 | B3 – Kulturelt match (afstemning) | B | Fra mode og retail til rekruttering: hvad "passer ind" betyder |
 | 49 | E4 – Tak til en tidligere leder | E | Fra Ving: "Service og holdånd har præget mig lige siden" |
-| 50 | B2 – Løngennemsigtighed | B | Kobl direktivet til lønforskelle mellem kønnene, som du har set i data |
+| 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med løn og overenskomster |
 | 51 | D2 – "Fra intention til handling" | D | Værdier skal leves indadtil, ikke kun mod kunderne. Generel vinkel uden navnet på virksomheden |
 | 52 | Bag kameraet: golf, krimi og hvidvin | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
 | 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |

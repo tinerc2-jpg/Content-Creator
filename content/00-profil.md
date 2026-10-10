@@ -1,6 +1,6 @@
 # Profil – Tine Ryg Cebrian
 
-> Grundlaget for alt indhold. Samlet ud fra Tines egne materialer: karrierevideoen "Sæson 4", jobsøgnings-trackeren, case-præsentationen og en people analytics-analyse.
+> Grundlaget for alt indhold. Samlet ud fra Tines egne materialer: karrierevideoen "Sæson 4", jobsøgnings-trackeren, og case-præsentationen.
 > Repoet er offentligt, så her står kun det, der også kan stå på LinkedIn. Der er ingen ansøgninger, afslag eller kontaktpersoner.
 
 ## Positionering
@@ -27,7 +27,6 @@
 - M&A og integration
 - Talent acquisition: intern rekruttering og test af ledere, specialister og direktører
 - Overenskomster og samarbejde med fagforeninger
-- People analytics: personaleomsætning, fastholdelse og hvem der er i risiko for at sige op
 - AI i HR (har taget kurser)
 - Sprog: svensk
 
@@ -49,6 +48,5 @@ Rejser og stranden, krimiserier og hvidvin ved havet, golf ("swinget er stadig i
 | Materiale | Kan blive til |
 |-----------|---------------|
 | Videoen "Min karriere er blevet en serie" (9:16, ca. 54 sek.) | Launch-opslaget |
-| Analysen af personaleomsætning (fiktive testdata) | Karrusel om people analytics: "Flere siger op. Her er hvorfor." |
 | Case-præsentationen: "Fra intention til handling" og "Det akutte versus det langsigtede" | Opslag om at gøre værdier til hverdag |
 | Netværksoversigten | Målgruppe for engagement: CHRO'er, headhuntere og tidligere kolleger |
