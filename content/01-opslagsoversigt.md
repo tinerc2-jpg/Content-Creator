@@ -101,21 +101,21 @@ Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin v
 
 ## 3. Forslag til de første 12 uger (tilpasset Tine)
 
-Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
+Du har allerede postet, at du søger job ("Fra karrierestige til career playground"), og et opslag om dit 15-års jubilæum. Planen bygger videre på dem. Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
 
 | Uge | Opslag | Søjle | Din vinkel |
 |-----|--------|-------|------------|
-| 42 | C1 – Launch: "Min karriere er blevet en serie" | C | Du har allerede videoen. Upload den direkte på LinkedIn (ikke som link) og slut med "Sæson 4: casting i gang" |
-| 43 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
-| 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
-| 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug dine AI-kurser |
-| 46 | D5 – Career Playground | D | Intern mobilitet: at vise vejen til næste job internt |
+| 42 | C2 – "Facade eller ej?" | C | **Klar til at poste.** Se [opslag/uge42-facade-eller-ej.md](opslag/uge42-facade-eller-ej.md) |
+| 43 | C1 – Videoen "Min karriere er blevet en serie" | C | Opfølgning på dit opslag om, at du søger job. Upload videoen direkte på LinkedIn (ikke som link) og slut med "Sæson 4: casting i gang" |
+| 44 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
+| 45 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
+| 46 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator |
 | 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Peakon, Crunchr og exitsamtaler: engagement på 8,4 mod en benchmark på 7,7 og en frivillig personaleomsætning omkring 10 % gennem svære år |
 | 48 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
-| 49 | E4 – Tak til en tidligere leder | E | Fra Ving: "Service og holdånd har præget mig lige siden" |
-| 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med løn og overenskomster |
+| 49 | Piloten: hvad Ving lærte mig om HR | D | Charterrejser, service og holdånd, og hvorfor gæsteoplevelse og medarbejderoplevelse hænger sammen |
+| 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med jobklassificering og lønstruktur |
 | 51 | F4 – Det akutte versus det langsigtede | F | Dit eget dilemma som HR med eneansvar hos Randstad |
-| 52 | Bag kameraet: golf, krimi og hvidvin | E | Let og personligt opslag i juleugen ("swinget er stadig i produktion") |
+| 52 | Bag kameraet: golf, sport og krimi | E | Let og personligt opslag i juleugen ("the swing is still a work in progress") |
 | 1 | C5 – Mit drømme-jobopslag: Sæson 4 | C | Nytår = nye jobs. Head of People eller Senior HRBP, beskrevet som et jobopslag |
 
 **Fra uge 2:** Dilemmaerne (F) bliver en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
@@ -159,5 +159,6 @@ Data samles i [`data/posts.csv`](../data/posts.csv), som dashboardet læser fra.
 Din profil er nu samlet i [00-profil.md](00-profil.md), inkl. tal fra Randstad. For at skrive opslagene færdige mangler jeg:
 
 1. **Har du flere tal for Career Playground**, fx hvor mange der brugte den, eller hvor mange interne skift der kom ud af den?
-2. **Har du allerede lagt "Sæson 4"-videoen op?** Hvis ja, bliver uge 42 til opslaget om Great Conversations.
-3. **Dine nuværende LinkedIn-tal**: antal følgere og gennemsnitlige visninger pr. opslag. Det bliver dit nulpunkt i dashboardet.
+2. **Har du allerede lagt "Sæson 4"-videoen op?** Hvis ja, rykker Great Conversations frem til uge 43.
+3. **Tal og datoer for dine to postede opslag**: visninger, reaktioner, kommentarer og genopslag. De bliver dit nulpunkt i dashboardet.
+4. **Antal følgere i dag.**
