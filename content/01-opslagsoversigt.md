@@ -19,7 +19,7 @@
 
 ---
 
-## 2. Idébank – 42 opslag
+## 2. Idébank – 45 opslag
 
 Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P** = afstemning · **V** = kort video
 
@@ -98,6 +98,28 @@ Formatet er det samme hver gang: dilemmaet, de to hensyn der trækker hver sin v
 | F6 | Når du selv er HR-afdelingen: hvem er HR for HR? | T | "Hvem tager du den svære samtale med, når det er dig, der plejer at tage dem?" |
 | F7 | Ens regler for alle, eller hensyn til den enkelte? | P + T | "Retfærdighed er ikke altid det samme som lighed." |
 | F8 | Medarbejderen og lederen er venner. Konflikten er reel. | T | "Det sværeste ved at være neutral er, at ingen tror, du er det." |
+
+### Aktuelt på LinkedIn
+
+Emner, som dit netværk og andre HR-folk skriver om lige nu. Listen opdateres, når LinkedIn bliver læst igennem, ca. en gang om ugen. Andres opslag bruges kun til at se, hvad der rører sig. Teksten er altid din egen. Hooks er forslag og skal rettes til din stemme, før de bruges.
+
+**Læst 10. oktober 2026 (uge 41)**
+
+Nye idéer:
+
+| # | Opslag | Format | Hook (forslag) | Hvorfor nu |
+|---|--------|--------|----------------|------------|
+| B7 | Mental sundhed er ikke et HR-projekt | T | "Trivslen bor ikke i HR. Den bor i mandagsmødet." | Mental Health Awards blev holdt i uge 41, og flere i dit netværk skriver om det. Din vinkel: Peakon viste dig, hvor det gik godt og skidt, og forskellen lå hos den enkelte leder |
+| F9 | Dilemma: Lytte eller gribe ind, når en medarbejder er på vej mod stress | T | "'Sig til, hvis jeg kan hjælpe.' Den sætning har jeg hørt for mange ledere gemme sig bag." | Stress og lederens ansvar fylder i dit netværk lige nu. Passer i dilemma-serien. Din vinkel: hvad gør HR, når HR ser det før lederen |
+| A13 | Personlighedstest: det en test kan fortælle, og det den ikke kan | T | "Jeg har givet testtilbagemeldinger i mange år. Det bedste kommer, når kandidaten er uenig med rapporten." | Der er debat om, hvor meget personlighed ændrer sig. Du er certificeret i OPTO, ACE og MPA og har selv givet tilbagemeldingerne |
+
+Aktuelle vinkler til opslag, der allerede står i idébanken:
+
+| # | Opslag | Aktuel vinkel |
+|---|--------|---------------|
+| B1 (uge 45) | AI i HR: hvor skal mennesket blive | Et opslag med mange kommentarer i dit netværk handler om, at AI giver tid tilbage, men at ingen beslutter, hvad tiden skal bruges til. Det kan blive din indgang: hvem i HR tager den beslutning sammen med lederen |
+| D5 | Hvordan jeg arbejder med ledere som sparringspartner | Flere HR-folk skriver, at de svære samtaler bliver sendt videre til HR. Din vinkel: den svære samtale er lederens, og HR's opgave er at gøre lederen klar til den |
+| A7 (uge 49) | Kandidatoplevelsen | Mange kandidater efterlyser lige nu bare et svar og en linjes feedback. Det passer til, at du selv har siddet på begge sider af bordet |
 
 ---
 

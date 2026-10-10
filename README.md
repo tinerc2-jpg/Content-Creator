@@ -3,7 +3,7 @@
 | Fil | Indhold |
 |-----|---------|
 | [content/00-profil.md](content/00-profil.md) | Tines profil, positionering og tone. Grundlaget for alt indhold |
-| [content/01-opslagsoversigt.md](content/01-opslagsoversigt.md) | Indholdssøjler, idébank med 42 opslag, plan for de første 12 uger og spilleregler |
+| [content/01-opslagsoversigt.md](content/01-opslagsoversigt.md) | Indholdssøjler, idébank med 45 opslag og aktuelle emner fra LinkedIn, plan for de første 12 uger og spilleregler |
 | [content/02-tone-of-voice.md](content/02-tone-of-voice.md) | Tines tone of voice med tjekliste til hvert opslag |
 | [content/opslag/](content/opslag/) | Færdige opslag, klar til at poste |
 | [content/03-tal-fra-linkedin.md](content/03-tal-fra-linkedin.md) | Sådan hentes tallene fra LinkedIn i browseren |
