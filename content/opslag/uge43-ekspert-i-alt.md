@@ -11,15 +11,15 @@ Opslaget skal også virke, når en ansættende leder klikker ind på din profil.
 >
 > Sådan kan det godt føles at være HR-generalist.
 >
-> I mange år har jeg stået for hele HR-området med et lille team ved min side. Den ene time sad jeg med ledelsen om en organisationsændring, den næste interviewede og testede jeg en kommende leder. Og så alt det midt imellem, fra overenskomster og lønrammer til trivsel og sparring med ledere og medarbejdere.
+> I mange år har jeg stået for hele HR-området med et lille team ved min side. Jeg kunne gå direkte fra et ledermøde om en organisationsændring til at interviewe og teste en kommende leder. Og så alt det midt imellem, fra overenskomster og lønrammer til trivsel og sparring med ledere og medarbejdere.
 >
 > Oven i det kom alle dem, der lige stak hovedet ind ad døren. Dagen blev sjældent, som jeg havde planlagt, og det har jeg det helt fint med. Jeg trives med tempo, uforudsigelighed og mange opgaver i gang på samme tid. Og jeg sørger for, at tingene rent faktisk sker, uanset hvor mange gange døren går op.
 >
 > Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
 >
-> Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og ret god til at finde svar, men det kræver, at man tør stå med beslutningerne selv.
+> Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og god til at finde svar. Og jeg har lært at stå med beslutningerne selv.
 >
-> Mange tror, at man som generalist ikke går i dybden. Men rekruttering og data har altid fyldt mere end resten for mig. Jeg har selv ansat og testet alt fra rekrutteringskonsulenter og specialister til ledere og direktører. Og jeg har brugt Peakon og exitsamtaler til at vise ledelsen, hvor skoen trykker.
+> Som generalist går man også i dybden. For mig har det især været rekruttering og data. Jeg har selv ansat og testet alt fra rekrutteringskonsulenter og specialister til ledere og direktører. Og fordi jeg har arbejdet i en rekrutteringsvirksomhed, kender jeg faget indefra. Jeg har også brugt Peakon og exitsamtaler til at vise ledelsen, hvor skoen trykker.
 >
 > Bredden gør, at jeg ser sammenhængene. Når en organisation bliver lavet om, kender jeg både regnearket og de mennesker, det handler om. Og når en leder skal ansætte, ved jeg, hvad den rigtige person betyder for hele teamet.
 >
