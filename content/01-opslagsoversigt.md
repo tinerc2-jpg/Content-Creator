@@ -35,7 +35,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 | A6 | 3 HR-nøgletal enhver leder bør kende | K | "Personaleomsætning er ikke et HR-tal. Det er et ledelsestal." |
 | A7 | Kandidatoplevelsen: hvad kandidater husker om jer | T | "Alle kandidater, I siger nej til, fortæller om jer bagefter." |
 | A8 | Fravær og sygefravær – den gode omsorgssamtale | T | "Omsorgssamtaler handler ikke om kontrol." |
-| A9 | People analytics uden et analytics-team | K | "Hos Randstad havde jeg ikke en data-afdeling. Jeg havde Excel og nysgerrighed." |
+| A9 | People analytics uden et analytics-team | K | "Engagement på 8,5. Benchmark 7,4. Gennem flere svære år. Tallet var aldrig målet." |
 | A10 | Fra mavefornemmelse til beslutningsgrundlag: sådan præsenterer du HR-data for ledelsen | K | "Ledelsen husker ikke dine tal. De husker den ene, der ændrede beslutningen." |
 | A11 | Hjerte først, data i hånden | T | "Data fortæller dig hvor. Kun samtalen fortæller dig hvorfor." |
 | A12 | De 3 HR-tal jeg altid kigger på først | P + T | "Hvis du kun måtte følge ét HR-tal, hvilket ville det være?" |
@@ -65,7 +65,7 @@ Format: **T** = tekst · **K** = karrusel/PDF-dokument · **B** = billede · **P
 
 | # | Opslag | Format | Hook |
 |---|--------|--------|------|
-| D1 | Det projekt, jeg er mest stolt af (før → efter med tal) | K | "Vi sænkede personaleomsætningen fra X % til Y %. Sådan gjorde vi." |
+| D1 | Great Conversations: fra årlig MUS til kvartalsvise samtaler | K | "Vi afskaffede den årlige MUS. Ingen savner den." |
 | D2 | Den sværeste samtale, jeg har haft som HR (anonymiseret) | T | "Jeg havde forberedt mig i 3 dage. Den varede 7 minutter." |
 | D3 | En fejl, jeg lærte meget af | T | "Min største HR-fejl kostede en god medarbejder." |
 | D4 | Implementering af et HR-system – 5 lærepunkter | K | "Systemet var ikke problemet. Forandringsledelsen var." |
@@ -106,11 +106,11 @@ Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad d
 | Uge | Opslag | Søjle | Din vinkel |
 |-----|--------|-------|------------|
 | 42 | C1 – Launch: "Min karriere er blevet en serie" | C | Du har allerede videoen. Upload den direkte på LinkedIn (ikke som link) og slut med "Sæson 4: casting i gang" |
-| 43 | D1 – Great Conversations | D | Hvordan du byggede et samtalekoncept uden en stor HR-afdeling bag dig. Før og efter, gerne med tal |
+| 43 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
 | 44 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug dine AI-kurser |
 | 46 | D5 – Career Playground | D | Intern mobilitet: at vise vejen til næste job internt |
-| 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Hvordan du brugte data hos Randstad til at give ledelsen bedre beslutninger |
+| 47 | A9 – People analytics uden et analytics-team (karrusel) | A | Peakon, Crunchr og exitsamtaler: engagement på 8,5 mod en benchmark på 7,4 og en frivillig personaleomsætning omkring 10 % gennem svære år |
 | 48 | F1 – Hvem er HR's kunde? (afstemning) | F | Første dilemma-opslag. Afstemninger giver mange visninger |
 | 49 | E4 – Tak til en tidligere leder | E | Fra Ving: "Service og holdånd har præget mig lige siden" |
 | 50 | B2 – Løngennemsigtighed | B | Hvad direktivet kræver af HR og ledere i praksis, set med dine erfaringer med løn og overenskomster |
@@ -156,8 +156,8 @@ Data samles i [`data/posts.csv`](../data/posts.csv), som dashboardet læser fra.
 
 ## Det mangler jeg stadig
 
-Din profil er nu samlet i [00-profil.md](00-profil.md). For at skrive opslagene færdige mangler jeg:
+Din profil er nu samlet i [00-profil.md](00-profil.md), inkl. tal fra Randstad. For at skrive opslagene færdige mangler jeg:
 
-1. **Tal fra Randstad** for Great Conversations og Career Playground: deltagere, engagement, fastholdelse eller lignende.
+1. **Har du flere tal for Career Playground**, fx hvor mange der brugte den, eller hvor mange interne skift der kom ud af den?
 2. **Har du allerede lagt "Sæson 4"-videoen op?** Hvis ja, bliver uge 42 til opslaget om Great Conversations.
 3. **Dine nuværende LinkedIn-tal**: antal følgere og gennemsnitlige visninger pr. opslag. Det bliver dit nulpunkt i dashboardet.
