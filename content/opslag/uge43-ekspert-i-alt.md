@@ -19,7 +19,7 @@ Opslaget skal også virke, når en ansættende leder klikker ind på din profil.
 >
 > Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og ret god til at finde svar, men det kræver, at man tør stå med beslutningerne selv.
 >
-> Mange tror, at man som generalist ikke går i dybden. Men to områder har altid fyldt mere end resten for mig: rekruttering og data. Jeg har selv ansat og testet alt fra rekrutteringskonsulenter og specialister til ledere og direktører. Og jeg har brugt Peakon og exitsamtaler til at vise ledelsen, hvor skoen trykker, før det blev til opsigelser.
+> Mange tror, at man som generalist ikke går i dybden. Men rekruttering og data har altid fyldt mere end resten for mig. Jeg har selv ansat og testet alt fra rekrutteringskonsulenter og specialister til ledere og direktører. Og jeg har brugt Peakon og exitsamtaler til at vise ledelsen, hvor skoen trykker.
 >
 > Bredden gør, at jeg ser sammenhængene. Når en organisation bliver lavet om, kender jeg både regnearket og de mennesker, det handler om. Og når en leder skal ansætte, ved jeg, hvad den rigtige person betyder for hele teamet.
 >
