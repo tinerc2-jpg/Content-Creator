@@ -23,35 +23,34 @@
 >
 > #rekruttering #ledelse #kultur #menneskerifokus #jobsøgning #hr
 
-## Version 3: med mere kant (aktuel)
+## Version 4: kant med varme (aktuel)
 
-Ændringer i forhold til v2:
+Ændringer i forhold til version 3:
 
-- **Mere kant.** Opslaget siger højt, at begge sider af bordet spiller skuespil, og at det er spild af tid.
-- **Ingen spørgsmål til sidst.** Opslaget slutter med en holdning.
-- Din egen formulering om rustningen og kemien er bevaret.
+- **Ny overgang** efter skuespils-afsnittet. "Spild af tid" er skiftet ud med "Og det er synd", og et nyt afsnit forklarer hvorfor: begge parter vil finde ud af, om de har lyst til at arbejde sammen.
+- **Varmere midte.** Afsnittet om de bedste samtaler bygger på dine egne billeder: sænkede skuldre, et grin og en ærlig snak.
+- **Den valgfri linje er fjernet.** Den var min formulering, ikke din oplevelse.
+- **Afslutningen** binder kaffen fra din original sammen med begge sider af bordet.
 
 > Facade eller ej? 🎭
 >
 > Jeg har siddet på den anden side af bordet i hundredvis af jobsamtaler. Nu sidder jeg selv i kandidatstolen, og jeg må indrømme, at jeg genkender mig selv lidt for godt i begge roller.
 >
-> For vi spiller jo skuespil. Begge to.
+> For vi spiller jo lidt skuespil. Begge to.
 >
-> Kandidaten har øvet sine svar og sin svaghed, der i virkeligheden er en styrke. Rekrutteren fortæller om en fantastisk kultur og et team, der er som en familie. Alle smiler, og bagefter ved ingen af os ret meget mere om hinanden end før.
+> Kandidaten har øvet sine svar og sin svaghed, der i virkeligheden er en styrke. Rekrutteren fortæller om en fantastisk kultur og et team, der er som en familie. Alle smiler pænt, og bagefter ved vi ikke ret meget mere om hinanden end før.
 >
-> Det er spild af tid på begge sider af bordet.
+> Og det er synd. For det, vi begge prøver at finde ud af, er jo, om vi får lyst til at arbejde sammen. Det kan man ikke mærke gennem en facade.
 >
-> [Valgfrit] Som hiring manager lærte jeg ofte mest om en kandidat i de få minutter, hvor samtalen egentlig var slut, og vi bare snakkede.
+> De bedste samtaler, jeg har haft, var dem, hvor vi glemte at spille. Hvor vi sænkede skuldrene, grinede lidt sammen og fik en ærlig snak. Det er der, man mærker kulturen og den kemi, som intet CV i verden kan beskrive.
 >
-> Det er, når vi sænker skuldrene og griner lidt sammen, at vi reelt mærker hinanden. Det er der, kulturen viser sig, og den kemi opstår, som intet CV i verden kan beskrive.
+> Så jeg lader den professionelle rustning ligge ude i gangen og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
 >
-> Så jeg lader den professionelle rustning ligge ude i gangen. Jeg kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
->
-> Den samme ærlighed tager jeg med til bordet, når jeg selv sidder på den anden side igen 💙
+> Og når jeg selv sidder på den anden side af bordet igen, er det den samme kop kaffe og ærlige snak, jeg byder på 💙
 >
 > #rekruttering #kultur #jobsøgning
 
-**Én ting du skal vurdere:** "et team, der er som en familie" stikker lidt til rekrutterere. Det er meningen, men vil du være mere forsigtig, kan du skrive "et team med højt til loftet" i stedet.
+**Én ting du skal vurdere:** "et team, der er som en familie" stikker lidt til rekrutterere. Vil du være mere forsigtig, kan du skrive "et team med højt til loftet" i stedet.
 
 ### Alternative hooks (hvis du vil prøve noget andet end titlen)
 
