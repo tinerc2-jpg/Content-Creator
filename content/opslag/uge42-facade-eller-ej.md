@@ -42,6 +42,8 @@
 >
 > Og det er synd. For det, vi begge prøver at finde ud af, er jo, om vi får lyst til at arbejde sammen. Det kan man ikke mærke gennem en facade.
 >
+> Jeg ved godt, at nogle i HR synes, at facaden hører med, og at det er professionelt at holde den. Det er jeg meget uenig i. Man kan sagtens være professionel og sig selv på samme tid.
+>
 > De bedste samtaler, jeg har haft, var dem, hvor vi glemte at spille. Hvor vi sænkede skuldrene, grinede sammen og fik en ærlig snak. Det er der, man mærker kulturen og den kemi, som intet CV i verden kan beskrive.
 >
 > Så jeg lader den professionelle rustning ligge ude i gangen og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
