@@ -120,20 +120,6 @@ Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad d
 
 **Fra uge 2:** Dilemmaerne (F) bliver en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
 
------|--------|-------|------------|
-| 42 | C1 – Launch-opslag | C | Sætter rammen; netværket hjælper typisk et "open to work"-opslag godt på vej |
-| 43 | A1 – God onboarding (karrusel) | A | Viser faglighed med det samme |
-| 44 | B1 – AI i rekruttering | B | Højaktuelt emne → reach |
-| 45 | D1 – Mit stolteste projekt | D | Konkrete resultater til rekrutterere |
-| 46 | C2 – Kandidat på begge sider | C | Personligt og relaterbart |
-| 47 | A6 – 3 HR-nøgletal | A | Gemmes og deles af ledere |
-| 48 | B3 – Kulturelt match (afstemning) | B | Afstemninger giver mange visninger |
-| 49 | E4 – Tak til tidligere leder | E | Varmt opslag; leder reagerer typisk og spreder det |
-| 50 | B2 – Løngennemsigtighed | B | Juridisk dybde, efterspurgt i 2026 |
-| 51 | D2 – Den sværeste samtale | D | Stærk fortælling |
-| 52 | E5 – Årets HR-bog (juleroligt) | E | Let indhold i en stille uge |
-| 1 | C5 – Mit drømme-jobopslag | C | Nytår = nye jobs; klar besked til rekrutterere |
-
 ---
 
 ## 4. Spilleregler for hvert opslag
