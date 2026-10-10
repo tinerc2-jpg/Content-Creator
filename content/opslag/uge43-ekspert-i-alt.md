@@ -11,7 +11,7 @@
 >
 > I mange år har jeg stået for hele HR-området med et lille team ved min side. Den ene time handlede det om overenskomster og lønrammer, den næste om en organisationsændring eller en medarbejder, der havde det svært. Og så alt det midt imellem, fra rekruttering og trivsel til bonusstruktur og sparring med ledere og medarbejdere.
 >
-> Oven i det kom alle dem, der lige stak hovedet ind ad døren. Dagen blev sjældent, som jeg havde planlagt, og det har jeg det helt fint med. Jeg trives med tempo, uforudsigelighed og mange opgaver i gang på samme tid. Og jeg sørger for, at tingene rent faktisk sker, også når kalenderen ligner et kludetæppe.
+> Oven i det kom alle dem, der lige stak hovedet ind ad døren. Dagen blev sjældent, som jeg havde planlagt, og det har jeg det helt fint med. Jeg trives med tempo, uforudsigelighed og mange opgaver i gang på samme tid. Og jeg sørger for, at tingene rent faktisk sker, uanset hvor mange gange døren går op.
 >
 > Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
 >
@@ -27,7 +27,7 @@
 
 ## Valg der mangler
 
-- **Afsnittet om forstyrrelser:** A står i teksten. Alternativ B: "Planen for dagen holdt sjældent til frokost. Nogen stak altid hovedet ind ad døren, og det er faktisk der, jeg er bedst. Jeg trives med tempo og uforudsigelighed, og jeg sørger for, at tingene bliver til noget, også når dagen tager en helt anden drejning."
+- **Afsnittet om forstyrrelser:** A står i teksten, med slutningen "uanset hvor mange gange døren går op".
 - **Bagsiden:** "ensomt" står i teksten. Alternativ: "… men det kræver, at man tør stå med beslutningerne selv."
 
 Gennemgået for AI-sprog efter [tone of voice-guiden](../02-tone-of-voice.md).
