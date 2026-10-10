@@ -64,6 +64,8 @@ Opslagene skal lyde som Tine, ikke som en maskine. Før et opslag er klar, genne
 - "spændende", "værdifuld", "afgørende", "essentiel" og "utrolig" som fyldord
 - "Lad os …" som afslutning og "Det er vigtigt at huske, at …"
 - Engelske buzzwords i danske opslag: "mindset", "impact", "journey", "empower"
+- Klichéer fra jobsamtaler, fx "en svaghed, der i virkeligheden er en styrke"
+- "Rekrutteren": den bestemte form hedder "rekruttereren", og den lyder tung. Skriv hellere "den, der ansætter" eller "lederen"
 
 **Sætningsmønstre, der ikke bruges**
 - "Det handler ikke om X, men om Y" og "Ikke X. Ikke Y. Men Z."

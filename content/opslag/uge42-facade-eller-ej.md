@@ -23,9 +23,9 @@
 >
 > #rekruttering #ledelse #kultur #menneskerifokus #jobsøgning #hr
 
-## Version 4: kant med varme (aktuel)
+## Version 5: kant med varme (aktuel)
 
-Ændringer i forhold til version 3:
+Ændringer i forhold til version 3 (og i version 5: afsnit 3 er skrevet om, så du selv står i begge roller, og "Rekrutteren" er væk):
 
 - **Ny overgang** efter skuespils-afsnittet. "Spild af tid" er skiftet ud med "Og det er synd", og et nyt afsnit forklarer hvorfor: begge parter vil finde ud af, om de har lyst til at arbejde sammen.
 - **Varmere midte.** Afsnittet om de bedste samtaler bygger på dine egne billeder: sænkede skuldre, et grin og en ærlig snak.
@@ -38,7 +38,7 @@
 >
 > For vi spiller jo lidt skuespil. Begge to.
 >
-> Kandidaten har øvet sine svar og sin svaghed, der i virkeligheden er en styrke. Rekrutteren fortæller om en fantastisk kultur og et team, der er som en familie. Alle smiler pænt, og bagefter ved vi ikke ret meget mere om hinanden end før.
+> Som kandidat har jeg fundet mine bedste historier frem og øvet mig i at lyde rolig og velovervejet. Når jeg selv har ansat, har jeg fortalt om den gode kultur og det stærke team. Det er ment ærligt begge veje, men bagefter ved man tit ikke ret meget mere om hinanden end før.
 >
 > Og det er synd. For det, vi begge prøver at finde ud af, er jo, om vi får lyst til at arbejde sammen. Det kan man ikke mærke gennem en facade.
 >
@@ -50,7 +50,9 @@
 >
 > #rekruttering #kultur #jobsøgning
 
-**Én ting du skal vurdere:** "et team, der er som en familie" stikker lidt til rekrutterere. Vil du være mere forsigtig, kan du skrive "et team med højt til loftet" i stedet.
+**Alternativ til afsnit 3** (mere distance, hvis du ikke vil skrive om dig selv i begge roller):
+
+> Den ene part har forberedt sine bedste historier. Den anden fortæller om en god kultur og et stærkt team. Alle gør sig umage og smiler pænt, men bagefter ved vi tit ikke ret meget mere om hinanden end før.
 
 ### Alternative hooks (hvis du vil prøve noget andet end titlen)
 
