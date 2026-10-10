@@ -14,3 +14,9 @@
 **Sådan opdateres tallene:** Ret `data/posts.csv` og `data/profil.csv`, kør `python3 tools/csv_til_json.py build`, og upload de to JSON-filer til dashboardet.
 
 **Næste skridt:** fine-tuning af opslagene.
+
+## Arbejdsgang ved tilretning af opslag
+
+- Vis altid hele opslaget efter hver tilretning, også ved små ændringer, så Tine kan se helheden.
+- Alle opslag skal være fri for AI-sprog, se [tone of voice-guiden](content/02-tone-of-voice.md).
+- Ingen spørgsmål til sidst i opslagene.
