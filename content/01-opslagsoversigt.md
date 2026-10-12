@@ -127,20 +127,30 @@ Aktuelle vinkler til opslag, der allerede står i idébanken:
 
 Du har allerede postet tre opslag: "Fra karrierestige til career playground", hvor du fortæller, at du søger job, "Min karriere er blevet til en serie på Netflix" og opslaget om dit 15-års jubilæum. Planen bygger videre på dem, og din profil fortæller allerede karrieren som serie. Rækkefølgen er valgt, så du først fortæller *hvem du er*, så viser *hvad du kan*, og derefter skaber *debat* (der giver mest reach). Alle opslag bygger på din egen historie fra Ving, Microsoft, IC Companys og Randstad.
 
-| Uge | Opslag | Søjle | Din vinkel |
-|-----|--------|-------|------------|
-| 42 | C2 – "Facade eller ej?" | C | **Klar til at poste.** Se [opslag/uge42-facade-eller-ej.md](opslag/uge42-facade-eller-ej.md) |
-| 43 | **Dilemma 1:** F5 – Ekspert i alt, specialist i intet? | F | Starter serien: hverdagen som HR med eneansvar, fra overenskomst om formiddagen til strategi om eftermiddagen |
-| 44 | D1 – Great Conversations | D | Fra årlig MUS til kvartalsvise samtaler: hvordan du fik ledere og medarbejdere i Danmark med på den globale beslutning |
-| 45 | B1 – AI i HR: hvor skal mennesket blive? | B | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator |
-| 46 | **Dilemma 2:** F1 – Hvem er HR's kunde? (afstemning) | F | Ledelsen eller medarbejderen? Afstemninger giver mange visninger |
-| 47 | A9 – Når data og samtaler peger samme vej (karrusel) | A | Peakon-engagement og exitsamtaler viste et mønster, der førte til en omstrukturering. Gennemsnitligt engagement på 8,4 mod en benchmark på 7,7 |
-| 48 | **Dilemma 3:** F4 – Det akutte versus det langsigtede | F | Når brandslukning fylder kalenderen: hvem bygger så brandvæsnet? |
-| 49 | A7 – Kandidatoplevelsen | A | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører: hvad kandidater husker om jer |
-| 50 | **Dilemma 4:** F2 – Fortrolighed | F | En medarbejder betror sig, men det, du får at vide, kræver handling |
-| 51 | A1 – God onboarding (karrusel) | A | Hvad du har set virke fra IC Companys til Randstad |
-| 52 | E5 – Bogen der ændrede mit syn på HR | E | Let opslag i juleugen, der også kan bruges som gaveidé |
-| 1 | *Afventer* | – | Besluttes senere |
+| Uge | Opslag | Søjle | Status | Din vinkel | Indsigt, der kan styrke det |
+|-----|--------|-------|--------|------------|-----------------------------|
+| 42 | C2 – "Facade eller ej?" | C | ✅ Klar (tirsdag 13/10) | Koblet til Netflix-serien: castingen til sæson 4. [Se opslaget](opslag/uge42-facade-eller-ej.md) | – |
+| 43 | **Dilemma 1:** F5 – Ekspert i alt, specialist i intet? | F | ✅ Klar (tirsdag 20/10) | Tilpasset TA-lederrollen: dybde i rekruttering og data. [Se opslaget](opslag/uge43-ekspert-i-alt.md) | – |
+| 44 | D1 – Farvel til MUS (Great Conversations) | D | ✏️ Udkast 2 | Tilpasset den strategiske P&O-partnerrolle: global beslutning, lokal implementering, lederne gør forskellen. [Se udkastet](opslag/uge44-great-conversations.md) | Randstad: 72 % læner sig mere op ad deres nærmeste leder. Gallup: ledernes engagement falder |
+| 45 | B1 – AI i HR: hvor skal mennesket blive? | B | Planlagt | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator | Gartner: kun 24 % ved, hvem der har ansvaret for AI-agenter. Deloitte: teknologi-først giver 1,6 gange større risiko for at fejle |
+| 46 | **Dilemma 2:** F1 – Hvem er HR's kunde? (afstemning) | F | Planlagt | Ledelsen eller medarbejderen? Afstemninger giver mange visninger | Korn Ferry: tilliden til topledelsen er faldet 15 procentpoint siden 2024 |
+| 47 | A9 – Når data og samtaler peger samme vej (karrusel) | A | Planlagt | Peakon-engagement og exitsamtaler viste et mønster, der førte til en omstrukturering. Gennemsnit 8,4 mod en benchmark på 7,7 | Korn Ferry: 71 % går efter mavefornemmelsen, fordi der er for meget data |
+| 48 | **Dilemma 3:** F4 – Det akutte versus det langsigtede | F | Planlagt | Når brandslukning fylder kalenderen: hvem bygger så brandvæsnet? | Gartner: HR er blevet hurtig til processer, men ikke til at skabe værdi |
+| 49 | A7 – Kandidatoplevelsen | A | Planlagt | Fra Randstad, hvor du selv stod for intern rekruttering og test af ledere, specialister og direktører | Ballisager: kun hver femte giver skriftligt afslag efter en jobsamtale (tjek) |
+| 50 | **Dilemma 4:** F2 – Fortrolighed | F | Planlagt | En medarbejder betror sig, men det, du får at vide, kræver handling | – |
+| 51 | A1 – God onboarding (karrusel) | A | Planlagt | Hvad du har set virke fra IC Companys til Randstad | Korn Ferry: 62 % har fået markant tungere arbejdsbyrde |
+| 52 | E5 – Bogen der ændrede mit syn på HR | E | Planlagt | Let opslag i juleugen, der også kan bruges som gaveidé | – |
+| 1 | *Afventer* | – | – | Besluttes senere. Forslag nedenfor | – |
+
+**Forslag til uge 1 og frem** (ikke besluttet, aktuelle emner fra LinkedIn og rapporterne):
+
+- **B7 – Mental sundhed er ikke et HR-projekt.** Gallup: ledernes engagement falder, og Danmark ligger på 22 % engagerede.
+- **F9 – Dilemma: Lytte eller gribe ind ved stress.** Passer som dilemma 5, når serien fortsætter hver 3. uge.
+- **A13 – Personlighedstest: hvad en test kan, og hvad den ikke kan.** Passer til TA-lederrollen og dine OPTO-, ACE- og MPA-certificeringer.
+- **C5 – Mit drømme-jobopslag: Sæson 4.** Nytår betyder nye jobs.
+- **Løngennemsigtighed (B2)** gemmes til februar 2027, lige før reglerne træder i kraft 1. marts 2027.
+
+**Kilde til tal:** [04-hr-indsigter.md](04-hr-indsigter.md). Reglen er ét tal pr. opslag, og altid sammen med din egen erfaring.
 
 **Fire dilemmaer i perioden** (uge 43, 46, 48 og 50), og fra uge 2 fortsætter de som en fast serie hver 3. uge, fx "HR-dilemmaet" om tirsdagen. En fast serie lærer dit netværk, hvornår de skal kigge efter dig.
 
