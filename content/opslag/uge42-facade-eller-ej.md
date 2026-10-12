@@ -23,18 +23,13 @@
 >
 > #rekruttering #ledelse #kultur #menneskerifokus #jobsøgning #hr
 
-## Version 5: endelig
-
-Ændringer i forhold til version 3 (og i version 5: afsnit 3 er skrevet om, så du selv står i begge roller, og "Rekrutteren" er væk):
-
-- **Ny overgang** efter skuespils-afsnittet. "Spild af tid" er skiftet ud med "Og det er synd", og et nyt afsnit forklarer hvorfor: begge parter vil finde ud af, om de har lyst til at arbejde sammen.
-- **Varmere midte.** Afsnittet om de bedste samtaler bygger på dine egne billeder: sænkede skuldre, et grin og en ærlig snak.
-- **Den valgfri linje er fjernet.** Den var min formulering, ikke din oplevelse.
-- **Afslutningen** binder kaffen fra din original sammen med begge sider af bordet.
+## Version 6: endelig (koblet til serien)
 
 > Facade eller ej? 🎭
 >
-> Jeg har siddet på den anden side af bordet i hundredvis af jobsamtaler. Nu sidder jeg selv i kandidatstolen, og jeg må indrømme, at jeg genkender mig selv lidt for godt i begge roller.
+> For nylig fortalte jeg, at min karriere er blevet en serie, og at sæson 4 er ved at blive castet. Castingen er nu i fuld gang, og det giver stof til eftertanke.
+>
+> Jeg har selv siddet på den anden side af bordet i hundredvis af jobsamtaler. Nu er det mig, der er til casting, og jeg må indrømme, at jeg genkender mig selv lidt for godt i begge roller.
 >
 > For vi spiller jo lidt skuespil. Begge to.
 >
@@ -46,11 +41,11 @@
 >
 > De bedste samtaler, jeg har haft, var dem, hvor vi glemte at spille. Hvor vi sænkede skuldrene, grinede sammen og fik en ærlig snak. Det er der, man mærker kulturen og den kemi, som intet CV i verden kan beskrive.
 >
-> Så jeg lader den professionelle rustning ligge ude i gangen og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
+> Så jeg lader kostumet blive i garderoben og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
 >
 > Og når jeg selv sidder på den anden side af bordet igen, er det den samme kop kaffe, de samme grin og den samme ærlige snak, jeg byder på 💙
 >
-> #rekruttering #kultur #jobsøgning
+> #jobsøgning
 
 **Fravalgt alternativ til afsnit 3:**
 
