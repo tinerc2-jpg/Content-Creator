@@ -1,6 +1,6 @@
 # Uge 42 – Facade eller ej? 🎭
 
-**Søjle:** C (jobsøgningsrejsen), kobler til F (dilemmaer) · **Format:** tekst · **Status:** endelig, godkendt af Tine
+**Søjle:** C (jobsøgningsrejsen), kobler til F (dilemmaer) · **Format:** ren tekst, intet billede · **Status:** endelig, godkendt af Tine
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–9.00
 
 ## Tines original
