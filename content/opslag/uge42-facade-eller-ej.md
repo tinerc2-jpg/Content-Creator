@@ -27,7 +27,7 @@
 
 > Facade eller ej? 🎭
 >
-> For nylig fortalte jeg, at min karriere er blevet en serie, og at sæson 4 er ved at blive castet. Castingen er nu i fuld gang, og det giver stof til eftertanke.
+> For nylig fortalte jeg, at min karriere er blevet en Netflix-serie, og at sæson 4 er ved at blive castet. Castingen er nu i fuld gang, og det giver stof til eftertanke.
 >
 > Jeg har selv siddet på den anden side af bordet i hundredvis af jobsamtaler. Nu er det mig, der er til casting, og jeg må indrømme, at jeg genkender mig selv lidt for godt i begge roller.
 >
@@ -41,7 +41,7 @@
 >
 > De bedste samtaler, jeg har haft, var dem, hvor vi glemte at spille. Hvor vi sænkede skuldrene, grinede sammen og fik en ærlig snak. Det er der, man mærker kulturen og den kemi, som intet CV i verden kan beskrive.
 >
-> Så jeg lader kostumet blive i garderoben og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
+> Så jeg lader masken ligge ude i gangen og kommer, som jeg er, med grin og ærlighed. Passer det ikke til jer, er det bedre, at vi finder ud af det nu.
 >
 > Og når jeg selv sidder på den anden side af bordet igen, er det den samme kop kaffe, de samme grin og den samme ærlige snak, jeg byder på 💙
 >
