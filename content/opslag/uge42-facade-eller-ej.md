@@ -45,7 +45,7 @@
 >
 > Og når jeg selv sidder på den anden side af bordet igen, er det den samme kop kaffe, de samme grin og den samme ærlige snak, jeg byder på 💙
 >
-> #jobsøgning
+> #rekruttering #kultur #jobsøgning
 
 **Fravalgt alternativ til afsnit 3:**
 
