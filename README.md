@@ -20,5 +20,5 @@
 ## Arbejdsgang ved tilretning af opslag
 
 - Vis altid hele opslaget efter hver tilretning, også ved små ændringer, så Tine kan se helheden.
-- Alle opslag skal være fri for AI-sprog, se [tone of voice-guiden](content/02-tone-of-voice.md).
+- Alle opslag, kommentarer og svar på kommentarer skal være fri for AI-sprog og i Tines tone, se [tone of voice-guiden](content/02-tone-of-voice.md).
 - Ingen spørgsmål til sidst i opslagene.
