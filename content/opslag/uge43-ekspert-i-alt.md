@@ -1,21 +1,17 @@
 # Uge 43 – Ekspert i alt, specialist i intet? 🤹
 
-**Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** klar, godkendt af Tine (udkast 3, tilpasset en TA-lederrolle)
+**Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** endelig, planlagt i LinkedIn tirsdag 20/10 kl. 8.30 · ren tekst
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–8.30
 
-## Endelig version: tilpasset ansøgningerne
-
-Opslaget skal også virke, når en ansættende leder klikker ind på din profil. Det skal derfor vise to ting: at du har dybde i rekruttering (TA-lederrollen), og at du er en strategisk partner for ledelsen med blik for organisation og data (P&O-partnerrollen). Ingen virksomheder eller stillinger nævnes.
+## Endelig version (planlagt tirsdag 20/10 kl. 8.30)
 
 > Ekspert i alt, specialist i intet? 🤹
 >
 > Sådan kan det godt føles at være HR-generalist.
 >
-> I mange år har jeg stået for hele HR-området med et lille team ved min side. Jeg kunne gå direkte fra et ledermøde om en organisationsændring til at interviewe og teste en kommende leder. Og så alt det midt imellem, fra overenskomster og lønrammer til trivsel og sparring med ledere og medarbejdere.
+> I mange år har jeg stået for hele HR-området med et lille team ved min side. Jeg kunne gå direkte fra et ledermøde om en organisationsændring til at interviewe og teste en kommende leder, og på vejen nå at svare på et spørgsmål om overenskomsten og tage en snak om trivsel med en medarbejder.
 >
-> Oven i det kom alle dem, der lige stak hovedet ind ad døren. Dagen blev sjældent, som jeg havde planlagt, og det har jeg det helt fint med. Jeg trives med tempo, uforudsigelighed og mange opgaver i gang på samme tid. Og jeg sørger for, at tingene rent faktisk sker, uanset hvor mange gange døren går op.
->
-> Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
+> Oven i det kom alle dem, der lige stak hovedet ind ad døren. Dagen blev sjældent, som jeg havde planlagt, og det havde jeg det helt fint med. Jeg trives med tempo, uforudsigelighed og mange opgaver i gang på samme tid, og jeg sørger for, at tingene rent faktisk sker, også når planen er røget allerede inden frokost. Det var aldrig kedeligt, og det er en stor del af grunden til, at jeg elsker det.
 >
 > Men der er en bagside. Der var ingen specialist at hive ind, så jeg måtte selv finde ud af det. Det har gjort mig grundig og god til at finde svar. Og jeg har lært at stå med beslutningerne selv.
 >
