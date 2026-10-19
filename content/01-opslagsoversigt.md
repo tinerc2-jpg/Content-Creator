@@ -129,7 +129,7 @@ Du har allerede postet tre opslag: "Fra karrierestige til career playground", hv
 
 | Uge | Opslag | Søjle | Status | Din vinkel | Indsigt, der kan styrke det |
 |-----|--------|-------|--------|------------|-----------------------------|
-| 42 | C2 – "Facade eller ej?" | C | ✅ Klar (tirsdag 13/10) | Koblet til Netflix-serien: castingen til sæson 4. [Se opslaget](opslag/uge42-facade-eller-ej.md) | – |
+| 42 | C2 – "Facade eller ej?" | C | 📣 Postet 13/10 | Koblet til Netflix-serien: castingen til sæson 4. [Se opslaget](opslag/uge42-facade-eller-ej.md) | – |
 | 43 | **Dilemma 1:** F5 – Ekspert i alt, specialist i intet? | F | ✅ Klar (tirsdag 20/10) | Tilpasset TA-lederrollen: dybde i rekruttering og data. [Se opslaget](opslag/uge43-ekspert-i-alt.md) | – |
 | 44 | D1 – Farvel til MUS (Great Conversations) | D | ✏️ Udkast 2 | Tilpasset den strategiske P&O-partnerrolle: global beslutning, lokal implementering, lederne gør forskellen. [Se udkastet](opslag/uge44-great-conversations.md) | Randstad: 72 % læner sig mere op ad deres nærmeste leder. Gallup: ledernes engagement falder |
 | 45 | B1 – AI i HR: hvor skal mennesket blive? | B | Planlagt | "Hjerte først, data i hånden" anvendt på AI. Brug din Gemini AI Skills Accelerator | Gartner: kun 24 % ved, hvem der har ansvaret for AI-agenter. Deloitte: teknologi-først giver 1,6 gange større risiko for at fejle |
