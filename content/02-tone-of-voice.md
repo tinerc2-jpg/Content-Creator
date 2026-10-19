@@ -27,6 +27,11 @@
 
 "Ikke for sjov, eller jo, også lidt for sjov." Tine griner gerne af sig selv og af branchen, fx af de generiske profilord: "Dynamisk og dedikeret og strategisk. Det er sikkert rigtigt, men man husker det ikke." Brug en legende ramme som Netflix-serien, når det passer, men højst hver 4.–5. uge, så den ikke bliver slidt.
 
+## Serie-emojis
+
+- **⚖️** bruges i titlen på alle dilemma-opslag (søjle F), så netværket genkender serien.
+- **💙** er Tines signatur til sidst.
+
 ## Ord og temaer, der går igen
 
 | Tema | Tines ord |

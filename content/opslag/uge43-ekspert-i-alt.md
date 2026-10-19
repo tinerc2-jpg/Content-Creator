@@ -1,11 +1,11 @@
-# Uge 43 – Ekspert i alt, specialist i intet? 🤹
+# Uge 43 – Ekspert i alt, specialist i intet? ⚖️
 
 **Søjle:** F (HR-generalistens dilemmaer), dilemma 1 af 4 · **Format:** tekst · **Status:** endelig, planlagt i LinkedIn tirsdag 20/10 kl. 8.30 · ren tekst
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–8.30
 
 ## Endelig version (planlagt tirsdag 20/10 kl. 8.30)
 
-> Ekspert i alt, specialist i intet? 🤹
+> Ekspert i alt, specialist i intet? ⚖️
 >
 > Sådan kan det godt føles at være HR-generalist.
 >
