@@ -23,7 +23,7 @@ def main(out_dir: str) -> None:
             opslag.append(row)
 
     with open("data/profil.csv", encoding="utf-8") as f:
-        profil = [{k: (v if k == "dato" else int(v)) for k, v in r.items()} for r in csv.DictReader(f)]
+        profil = [{k: (v if k == "dato" else (int(v) if v else None)) for k, v in r.items()} for r in csv.DictReader(f)]
 
     (out / "opslag.json").write_text(json.dumps(opslag, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "profil.json").write_text(json.dumps(profil, ensure_ascii=False, indent=1), encoding="utf-8")
