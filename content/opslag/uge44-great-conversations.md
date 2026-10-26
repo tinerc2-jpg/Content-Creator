@@ -29,7 +29,7 @@
 >
 > Kaffen og de ærlige snakke tager jeg med mig til næste job. Skemaerne må blive, hvor de er 😄
 >
-> #hr #ledelse #forandringsledelse
+> #ledelse #jobsøgning #opentowork
 
 **Tjek:** at du selv sendte påmindelser ud og jagtede skemaer, at ingen savner MUS, og om "jeg trænede lederne" skal have medarbejderne med.
 
