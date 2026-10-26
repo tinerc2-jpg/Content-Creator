@@ -7,7 +7,7 @@
 
 > Farvel til MUS 👋
 >
-> Jeg skal være ærlig. Jeg har aldrig været fan af MUS.
+> Jeg har aldrig været fan af MUS. Så, nu er det sagt.
 >
 > Og det siger jeg som en, der selv har sendt påmindelserne ud år efter år og jagtet de sidste skemaer hjem op til deadline.
 >
