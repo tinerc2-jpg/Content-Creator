@@ -1,9 +1,9 @@
 # Uge 44 – Farvel til MUS 👋 (Great Conversations)
 
-**Søjle:** D (erfaringer og cases) · **Format:** tekst · **Status:** udkast 3, tilpasset en strategisk P&O-partnerrolle
+**Søjle:** D (erfaringer og cases) · **Format:** tekst · **Status:** klar, planlagt tirsdag 27/10 kl. 8.30, tilpasset en strategisk P&O-partnerrolle
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–8.30
 
-## Udkast 3: mere kant og personlighed (aktuel)
+## Endelig version (planlagt tirsdag 27/10 kl. 8.30)
 
 > Tidligere MUS-jæger 🙈
 >
@@ -27,7 +27,7 @@
 >
 > #ledelse #jobsøgning #opentowork
 
-**Tjek:** at du selv sendte påmindelser ud og jagtede skemaer, at ingen savner MUS, og om "jeg trænede lederne" skal have medarbejderne med.
+Godkendt af Tine 26/10. Alle fakta bekræftet.
 
 ## Udkast 2: tilpasset P&O-partnerrollen
 
