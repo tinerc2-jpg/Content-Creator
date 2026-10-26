@@ -19,7 +19,7 @@
 >
 > I stedet kom Great Conversations. En snak hvert kvartal, gerne over en kop kaffe, om hvor man er på vej hen, og hvad der skal til for at komme derhen.
 >
-> Beslutningen blev taget globalt, men det var i Danmark, den skulle leve, og det var min opgave sammen med ledelsen. Jeg trænede lederne i at tage de nye samtaler.
+> Beslutningen blev taget globalt, men det var i Danmark, den skulle leve, og det var min opgave sammen med ledelsen. Jeg trænede ledere og medarbejdere i at bruge de nye samtaler.
 >
 > Og så lærte jeg noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind, begynder ikke på det, bare fordi samtalen har fået et nyt navn. Det er lederne, der gør forskellen, og de skal have mod til at tage de ærlige snakke hele året, også dem, der er svære.
 >
