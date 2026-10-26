@@ -11,7 +11,9 @@
 >
 > Og det siger jeg som en, der selv har sendt påmindelserne ud år efter år og jagtet de sidste skemaer hjem op til deadline.
 >
-> For hånden på hjertet, hvor mange har ikke siddet til en MUS og talt om noget, der skete for ti måneder siden? Skemaet blev udfyldt og lagt i en mappe, og så gik der et år til næste gang. Vi gjorde det, fordi det stod i årshjulet.
+> Hånden på hjertet. Hvor mange har ikke siddet til en MUS og talt om noget, der skete for ti måneder siden? Skemaet blev udfyldt og lagt i en mappe, og så gik der et år til næste gang.
+>
+> Vi gjorde det mest for at kunne krydse det af.
 >
 > Så da Randstad globalt besluttede at droppe den årlige MUS, var jeg ikke svær at overbevise. Jeg var nok den første, der sagde ja tak.
 >
