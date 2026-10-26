@@ -23,7 +23,7 @@
 >
 > Men jeg lærte også noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind til en MUS, gør det heller ikke over en kop kaffe.
 >
-> Med Peakon hvert kvartal kunne vi heldigvis se, om det rent faktisk virkede.
+> Med Peakon hvert kvartal kunne vi se, hvor samtalerne virkede, og hvor en leder havde brug for lidt hjælp.
 >
 > I dag bruges Great Conversations i hele organisationen. Jeg har endnu ikke mødt nogen, der savner den gamle MUS. Heller ikke mig selv 😄
 >
