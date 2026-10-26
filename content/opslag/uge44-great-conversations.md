@@ -11,11 +11,11 @@
 >
 > Og det siger jeg som en, der selv har sendt påmindelserne ud år efter år og jagtet de sidste skemaer hjem op til deadline.
 >
-> Hånden på hjertet. Hvor mange har ikke siddet til en MUS og talt om noget, der skete for ti måneder siden? Skemaet blev udfyldt og lagt i en mappe, og så gik der et år til næste gang.
+> Vi har vel alle prøvet det. Man sidder til en MUS og taler om noget, der skete for ti måneder siden. Skemaet bliver udfyldt og lagt i en mappe, og så går der et år til næste gang.
 >
-> Vi gjorde det mest for at kunne krydse det af.
+> Man gør det mest for at kunne krydse det af.
 >
-> Så da Randstad globalt besluttede at droppe den årlige MUS, var jeg ikke svær at overbevise. Jeg var nok den første, der sagde ja tak.
+> Da Randstad globalt besluttede at droppe den årlige MUS, skulle jeg ikke overtales. Jeg havde nærmest skemaerne i makuleringsmaskinen, før mailen var læst færdig.
 >
 > I stedet kom Great Conversations. Kortere og mere uformelle samtaler hvert kvartal om, hvor man er på vej hen, og hvad man har brug for for at komme derhen.
 >
