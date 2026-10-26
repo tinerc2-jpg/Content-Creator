@@ -25,7 +25,7 @@
 >
 > I dag bruges Great Conversations i hele organisationen.
 >
-> Kaffen og de ærlige snakke tager jeg med mig til næste job. Den årlige MUS må blive, hvor den er 😄
+> Kaffen og de ærlige snakke tager jeg med mig til næste job. Den årlige MUS må gerne blive i mappen 😄
 >
 > #ledelse #jobsøgning #opentowork
 
