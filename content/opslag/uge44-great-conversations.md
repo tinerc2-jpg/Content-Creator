@@ -25,7 +25,7 @@
 >
 > Med Peakon hvert kvartal kunne vi se, hvor samtalerne virkede, og hvor en leder havde brug for lidt hjælp.
 >
-> I dag bruges Great Conversations i hele organisationen. Jeg har endnu ikke mødt nogen, der savner den gamle MUS. Heller ikke mig selv 😄
+> I dag bruges Great Conversations i hele organisationen. Jeg har endnu ikke mødt nogen, der savner den gamle MUS. Skemaerne savner jeg slet ikke 😄
 >
 > #hr #ledelse #forandringsledelse
 
