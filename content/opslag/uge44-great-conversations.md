@@ -5,7 +5,7 @@
 
 ## Udkast 3: mere kant og personlighed (aktuel)
 
-> Farvel til MUS 👋
+> Tidligere MUS-jæger 🙈
 >
 > Jeg har aldrig været fan af MUS. Så, nu er det sagt.
 >
