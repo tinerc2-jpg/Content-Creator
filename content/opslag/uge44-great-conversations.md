@@ -17,7 +17,7 @@
 >
 > Da Randstad globalt besluttede at droppe den årlige MUS, skulle jeg ikke overtales. Jeg havde nærmest skemaerne i makuleringsmaskinen, før mailen var læst færdig.
 >
-> I stedet kom Great Conversations. Kortere og mere uformelle samtaler hvert kvartal om, hvor man er på vej hen, og hvad man har brug for for at komme derhen.
+> I stedet kom Great Conversations. En snak hvert kvartal, gerne over en kop kaffe, om hvor man er på vej hen, og hvad der skal til for at komme derhen.
 >
 > Beslutningen blev taget globalt, men det var i Danmark, den skulle leve, og det var min opgave sammen med ledelsen. Jeg trænede lederne i at tage de nye samtaler.
 >
