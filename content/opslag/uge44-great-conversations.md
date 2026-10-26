@@ -21,7 +21,7 @@
 >
 > En global beslutning er én ting. At få den til at leve i hverdagen i Danmark er noget helt andet. Den opgave var min, og jeg trænede ledere og medarbejdere i at bruge de nye samtaler.
 >
-> Og så lærte jeg noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind, begynder ikke på det, bare fordi samtalen har fået et nyt navn. Det er lederne, der gør forskellen, og de skal have mod til at tage de ærlige snakke hele året, også dem, der er svære.
+> Men jeg lærte også noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind til en MUS, gør det heller ikke over en kop kaffe.
 >
 > Med Peakon hvert kvartal kunne vi heldigvis se, om det rent faktisk virkede.
 >
