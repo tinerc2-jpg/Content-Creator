@@ -19,11 +19,9 @@
 >
 > I stedet kom Great Conversations. En snak hvert kvartal, gerne over en kop kaffe, om hvor man er på vej hen, og hvad der skal til for at komme derhen.
 >
-> En global beslutning er én ting. At få den til at leve i hverdagen i Danmark er noget helt andet. Den opgave var min, og jeg trænede ledere og medarbejdere i at bruge de nye samtaler.
+> En global beslutning er én ting. At få den til at leve i hverdagen i Danmark er noget helt andet. Den opgave var min, og jeg trænede ledere og medarbejdere i at bruge de nye samtaler. I dag bruges de i hele organisationen.
 >
 > Men jeg lærte også noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind til sine folk, begynder ikke på det, bare fordi der kommer kaffe på bordet. Hvis lederen kun taler om opgaver og deadlines, bliver kaffesnakken bare en MUS i nyt tøj. Den gode samtale kræver en leder, der er nysgerrig på mennesket og tør tage de svære snakke.
->
-> I dag bruges Great Conversations i hele organisationen.
 >
 > Kaffen og de ærlige snakke tager jeg med mig til næste job. Den årlige MUS må gerne blive i mappen 😄
 >
