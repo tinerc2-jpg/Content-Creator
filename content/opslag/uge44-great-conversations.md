@@ -1,9 +1,35 @@
 # Uge 44 – Farvel til MUS 👋 (Great Conversations)
 
-**Søjle:** D (erfaringer og cases) · **Format:** tekst · **Status:** udkast 2, tilpasset en strategisk P&O-partnerrolle
+**Søjle:** D (erfaringer og cases) · **Format:** tekst · **Status:** udkast 3, tilpasset en strategisk P&O-partnerrolle
 **Bedste tidspunkt:** tirsdag eller onsdag kl. 7.30–8.30
 
-## Udkast 2: tilpasset P&O-partnerrollen (aktuel)
+## Udkast 3: mere kant og personlighed (aktuel)
+
+> Farvel til MUS 👋
+>
+> Jeg skal være ærlig. Jeg har aldrig været fan af MUS.
+>
+> Og det siger jeg som en, der selv har sendt påmindelserne ud år efter år og jagtet de sidste skemaer hjem op til deadline.
+>
+> For hånden på hjertet, hvor mange har ikke siddet til en MUS og talt om noget, der skete for ti måneder siden? Skemaet blev udfyldt og lagt i en mappe, og så gik der et år til næste gang. Vi gjorde det, fordi det stod i årshjulet.
+>
+> Så da Randstad globalt besluttede at droppe den årlige MUS, var jeg ikke svær at overbevise. Jeg var nok den første, der sagde ja tak.
+>
+> I stedet kom Great Conversations. Kortere og mere uformelle samtaler hvert kvartal om, hvor man er på vej hen, og hvad man har brug for for at komme derhen.
+>
+> Beslutningen blev taget globalt, men det var i Danmark, den skulle leve, og det var min opgave sammen med ledelsen. Jeg trænede lederne i at tage de nye samtaler.
+>
+> Og så lærte jeg noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind, begynder ikke på det, bare fordi samtalen har fået et nyt navn. Det er lederne, der gør forskellen, og de skal have mod til at tage de ærlige snakke hele året, også dem, der er svære.
+>
+> Med Peakon hvert kvartal kunne vi heldigvis se, om det rent faktisk virkede.
+>
+> I dag bruges Great Conversations i hele organisationen. Jeg har endnu ikke mødt nogen, der savner den gamle MUS. Heller ikke mig selv 😄
+>
+> #hr #ledelse #forandringsledelse
+
+**Tjek:** at du selv sendte påmindelser ud og jagtede skemaer, at ingen savner MUS, og om "jeg trænede lederne" skal have medarbejderne med.
+
+## Udkast 2: tilpasset P&O-partnerrollen
 
 Rollen handler om at være strategisk partner for en topleder og et ledelsesteam, om performancekultur, organisation og forandring i en global matrix. Opslaget viser derfor, at du har taget en global beslutning og fået den til at virke lokalt sammen med ledelsen, at du ved, at lederne gør forskellen, og at du fulgte op med data. Ingen virksomheder eller stillinger nævnes.
 
