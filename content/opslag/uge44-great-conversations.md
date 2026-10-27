@@ -21,7 +21,7 @@
 >
 > En global beslutning er én ting. At få den til at leve i hverdagen i Danmark er noget helt andet. Den opgave var min, og jeg trænede ledere og medarbejdere i at bruge de nye samtaler. I dag bruges de i hele organisationen.
 >
-> Men jeg lærte også noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind til sine folk, begynder ikke på det, bare fordi der kommer kaffe på bordet. Hvis lederen kun taler om opgaver og deadlines, bliver kaffesnakken bare en MUS i nyt tøj. Den gode samtale kræver en leder, der er nysgerrig på mennesket og tør tage de svære snakke.
+> Men jeg lærte også noget, der er lidt mindre rart at sige højt. Man kan sagtens holde en dårlig Great Conversation. En leder, der ikke spørger ind til sine folk, begynder ikke på det, bare fordi der kommer kaffe på bordet. Hvis lederen kun taler om opgaver og deadlines, bliver kaffesnakken bare en MUS i nyt tøj. Den gode samtale kræver en leder, der er nysgerrig på mennesket bag opgaverne.
 >
 > Kaffen og de ærlige snakke tager jeg med mig til næste job. Den årlige MUS må gerne blive i mappen 😄
 >
