@@ -1,6 +1,6 @@
 # HR-indsigter – inspiration til content
 
-> Nøgletal fra de vigtigste HR-analyser, samlet 12. oktober 2026. Hver kilde har et link og forslag til, hvordan Tine kan bruge den.
+> Nøgletal fra de vigtigste HR-analyser, samlet 12. oktober 2026, opdateret 1. november 2026. Hver kilde har et link og forslag til, hvordan Tine kan bruge den.
 > Rapporterne er ikke kopieret ind, fordi mange kræver tilmelding, og repoet er offentligt. Tal markeret **(tjek)** kommer fra omtaler eller uddrag og skal tjekkes i selve rapporten, før de bruges i et opslag.
 
 ## De store temaer lige nu
@@ -95,6 +95,8 @@ Alle seks passer til Tines profil: data og hjerte, Career Playground, Great Conv
 - Ledernes engagement er faldet til 22 %, 9 procentpoint siden 2022.
 - **Danmark:** 22 % engagerede, mod 12 % i Europa.
 - **Til Tine:** Et stærkt tal at sætte op mod hendes egne Peakon-resultater (gennemsnit 8,4 mod en benchmark på 7,7) og til opslag om lederen som den, der gør forskellen.
+- **Nyt (oktober 2026):** Engagementet i USA er faldet til 29 % i 3. kvartal 2026, det laveste siden 2011. Faldet er størst blandt hybride og hjemmearbejdende, og Gallup kan ikke påvise, at AI er årsagen. [CNBC](https://cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html)
+- **Nyt (oktober 2026):** 63 % af dem, der bruger AI, siger, at de arbejder hurtigere, men 31 % har fået flere opgaver af deres arbejdsgiver som følge af det. [Gallup](https://news.gallup.com/poll/714602/benefits-work-unevenly-distributed.aspx)
 - Kilder: [Gallup Danmark](https://www.gallup.com/workplace/705122/state-global-workplace-denmark-country-level-data.aspx) · [Gallup engagement](https://www.gallup.com/workplace/349484/employee-engagement.aspx)
 
 ### Mercer – Global Talent Trends 2026
@@ -103,6 +105,10 @@ Alle seks passer til Tines profil: data og hjerte, Career Playground, Great Conv
 - 72 % af investorerne mener, at virksomheder, der kombinerer mennesker og AI, står stærkest.
 - Medarbejdernes trivsel er den laveste siden 2018.
 - Kilder: [Mercer](https://www.mercer.com/en-us/about/newsroom/mercer-s-global-talent-trends-2026-report/) · [Business Wire](https://www.businesswire.com/news/home/20260225391406/en)
+
+### G-P – World at Work Report 2026 (oktober 2026)
+- 58 % ville sige nej til et job, hvis arbejdsgiverens holdning til AI strider mod deres egen. 62 % overvejer at søge nyt job, mod 52 % året før **(tjek)**.
+- Kilde: [HR Tech Edge](https://hrtechedge.com/workforce-management/g-p-report-finds-ai-values-influence-talent-and-retention/)
 
 ### Microsoft – Work Trend Index 2026 (maj 2026)
 - Tema: "Agents, human agency, and the opportunity for every organization". Tallene skal hentes i selve rapporten **(tjek)**.
@@ -120,7 +126,7 @@ Alle seks passer til Tines profil: data og hjerte, Career Playground, Great Conv
 - Kilde: [WEF Future of Jobs](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
 
 ### Danske kilder
-- **Løngennemsigtighed:** Reglerne træder efter planen i kraft 1. marts 2027. Datoen er først endelig, når loven er vedtaget. [Dansk Erhverv](https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/nye-regler-om-longennemsigtighed-udskydes-til-marts-2027/) · [DI](https://www.danskindustri.dk/vi-radgiver-dig/personale/nyhedsarkiver---personaleforhold/nyheder-personalejura/2026/10/virksomheder-far-mere-tid-til-at-forberede-sig-pa-longennemsigtighed/)
+- **Løngennemsigtighed:** Lovforslag L 68 blev fremsat 8. oktober 2026 og førstebehandlet 22. oktober. Reglerne træder efter planen i kraft 1. marts 2027, men loven er ikke vedtaget endnu, så indholdet kan stadig ændre sig. Arbejdsgivere skal oplyse startløn eller lønspænd før samtalen og må ikke spørge til tidligere løn. [Dansk Erhverv](https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/nye-regler-om-longennemsigtighed-udskydes-til-marts-2027/) · [DI](https://www.danskindustri.dk/vi-radgiver-dig/personale/nyhedsarkiver---personaleforhold/nyheder-personalejura/2026/10/virksomheder-far-mere-tid-til-at-forberede-sig-pa-longennemsigtighed/)
 - **NFA (Det Nationale Forskningscenter for Arbejdsmiljø):** Den vigtigste danske kilde om stress og psykisk arbejdsmiljø. Brug den til B7 (mental sundhed) og F9 (stress-dilemmaet). [nfa.dk](https://nfa.dk)
 - **Ennova (Global Employee and Leadership Index):** Dansk benchmark for medarbejdertilfredshed. En udgave for 2026 er ikke fundet **(tjek)**.
 - **Også værd at følge:** DI og Dansk Erhverv (personalejura og arbejdsmarked) og Djøf og AKA (karriere og ledere).
@@ -131,13 +137,12 @@ Alle seks passer til Tines profil: data og hjerte, Career Playground, Great Conv
 
 | Opslag i planen | Indsigt, der kan styrke det |
 |-----------------|-----------------------------|
-| Uge 44 – Farvel til MUS (Great Conversations) | Gallup: ledernes engagement falder. Randstad: 72 % læner sig mere op ad deres nærmeste leder |
-| Uge 45 – AI i HR | Gartner: kun 24 % ved, hvem der har ansvaret for AI-agenter. Deloitte: teknologi-først giver 1,6 gange større risiko for at fejle |
+| Uge 45 – AI i HR | Gallup (okt. 2026): 31 % af AI-brugerne har fået flere opgaver, ikke mere tid. Gartner: kun 24 % ved, hvem der har ansvaret for AI-agenter |
 | Uge 46 – Dilemma: Hvem er HR's kunde? | Korn Ferry: tilliden til topledelsen er faldet 15 procentpoint |
 | Uge 47 – People analytics | Korn Ferry: 71 % går efter mavefornemmelsen, fordi der er for meget data |
 | Uge 48 – Dilemma: Det akutte versus det langsigtede | Gartner: HR er hurtig til processer, men ikke til værdi |
 | Uge 49 – Kandidatoplevelsen | Ballisager: kun hver femte giver skriftligt afslag efter en samtale **(tjek)** |
 | Career Playground (idébanken) | Randstad: 72 % af arbejdsgiverne kalder karrierestigen forældet |
-| Løngennemsigtighed (foråret 2027) | Ikrafttræden 1. marts 2027 |
+| Løngennemsigtighed (foråret 2027) | L 68 fremsat 8/10; ikrafttræden 1. marts 2027; forbud mod at spørge til tidligere løn |
 
 **Regel for brug:** Ét tal pr. opslag, og altid med Tines egen erfaring ved siden af. Opslaget skal handle om hende, ikke om rapporten. Kilden nævnes i teksten eller i første kommentar.
