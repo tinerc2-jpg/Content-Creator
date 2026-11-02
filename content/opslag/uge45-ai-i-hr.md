@@ -15,9 +15,9 @@
 >
 > Gartner har spurgt HR-direktører, og kun hver fjerde ledergruppe er enige om, hvem der har ansvaret for AI-agenterne. Tre ud af fire har altså ikke styr på det.
 >
-> Det bekymrer mig mere end selve teknologien. Når agenten sender et forkert afslag eller giver en medarbejder et forkert svar om opsigelsesvarsel, er det ikke agenten, der står med sagen. Det er virksomheden.
+> Det bekymrer mig mere end selve teknologien. For hvad sker der, når medarbejderen med agenten stopper? Computeren og adgangskortet bliver afleveret. Men agenten kører videre, og ingen ved, hvem der ejer den.
 >
-> Derfor skal HR være med fra start og sørge for, at der står et navn på hver eneste agent.
+> Derfor skal HR stille et nyt spørgsmål ved hver fratrædelse og sørge for, at der står et navn på hver eneste agent.
 >
 > Hvis ingen vil skrive sit navn på den, skal den slukkes. Så enkelt er det.
 >
