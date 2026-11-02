@@ -1,9 +1,31 @@
 # Uge 45 – AI i HR: hvor skal mennesket blive? (B1)
 
-**Søjle:** B (holdning og trends) · **Format:** tekst · **Status:** udkast 1
+**Søjle:** B (holdning og trends) · **Format:** tekst · **Status:** udkast 2
 **Planlagt:** tirsdag 3/11 kl. 8.30
 
-## Udkast 1 (aktuel)
+## Udkast 2: AI-agenter og ansvar (aktuel)
+
+> AI kan screene 1.000 CV'er på et minut 🤖
+>
+> Men den kan ikke mærke, om kemien er der, når kandidaten træder ind ad døren.
+>
+> Jeg bruger selv AI hver dag. Gemini, NotebookLM og Claude er blevet faste kolleger, og sidste år tog jeg Randstads AI Skills Accelerator. Så jeg er ikke en af dem, der ryster på hovedet ad det.
+>
+> Nu kan alle bygge deres egen AI-agent på en eftermiddag. En til at sortere ansøgninger og en til at svare på spørgsmål om ferie og opsigelse. Det er smart. Men hvem ejer den, når den tager fejl?
+>
+> Gartner har spurgt HR-direktører, og kun hver fjerde ledergruppe er enige om, hvem der har ansvaret for AI-agenterne.
+>
+> Det er dér, HR skal på banen og sørge for, at der står et navn på hver agent. Hvis en agent sender et forkert afslag eller giver en medarbejder et forkert svar om opsigelse, skal nogen kunne stå på mål for det. Det kan en agent ikke.
+>
+> AI må gerne sortere bunken. Det er stadig et menneske, der skal ringe og sige ja.
+>
+> Hjerte først, data i hånden. Og nu også lidt AI i lommen 😄
+>
+> #hr #ai #rekruttering
+
+Kilde: Gartner, CHRO-prioriteter for 2027 (24 % af ledergrupperne er enige om ansvaret for AI-agenter).
+
+## Udkast 1
 
 > AI kan screene 1.000 CV'er på et minut 🤖
 >
