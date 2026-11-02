@@ -1,9 +1,9 @@
 # Uge 45 – AI i HR: hvor skal mennesket blive? (B1)
 
-**Søjle:** B (holdning og trends) · **Format:** tekst · **Status:** udkast 3
+**Søjle:** B (holdning og trends) · **Format:** tekst · **Status:** klar, planlagt tirsdag 3/11 kl. 8.30
 **Planlagt:** tirsdag 3/11 kl. 8.30
 
-## Udkast 3: skarpere, med vibe coding (aktuel)
+## Endelig version (planlagt tirsdag 3/11 kl. 8.30)
 
 > Fratrædelsestjeklisten mangler et punkt 🤖
 >
