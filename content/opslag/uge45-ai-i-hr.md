@@ -1,9 +1,29 @@
 # Uge 45 – AI i HR: hvor skal mennesket blive? (B1)
 
-**Søjle:** B (holdning og trends) · **Format:** tekst · **Status:** udkast 2
+**Søjle:** B (holdning og trends) · **Format:** tekst · **Status:** udkast 3
 **Planlagt:** tirsdag 3/11 kl. 8.30
 
-## Udkast 2: AI-agenter og ansvar (aktuel)
+## Udkast 3: skarpere, med vibe coding (aktuel)
+
+> Hvem står på mål, når AI-agenten tager fejl? 🤖
+>
+> Jeg vibe coder. Jeg bygger mine egne små værktøjer ved at fortælle AI, hvad jeg vil have, og det går stærkt. Det, der før krævede en IT-afdeling, laver jeg nu på en eftermiddag ved køkkenbordet.
+>
+> Og det kan alle andre også.
+>
+> Så om lidt har salgschefen en agent, der sorterer ansøgninger, og teamlederen en, der svarer på spørgsmål om ferie og opsigelse. Ingen har spurgt HR, og ingen har skrevet ned, hvem der ejer dem.
+>
+> Gartner har spurgt HR-direktører, og kun hver fjerde ledergruppe er enige om, hvem der har ansvaret for AI-agenterne. Tre ud af fire har altså ikke styr på det.
+>
+> Det bekymrer mig mere end selve teknologien. Når agenten sender et forkert afslag eller giver en medarbejder et forkert svar om opsigelsesvarsel, er det ikke agenten, der står med sagen. Det er virksomheden.
+>
+> Derfor skal HR være med fra start og sørge for, at der står et navn på hver eneste agent.
+>
+> Hvis ingen vil skrive sit navn på den, skal den slukkes. Så enkelt er det.
+>
+> #hr #ai #ledelse
+
+## Udkast 2: AI-agenter og ansvar
 
 > AI kan screene 1.000 CV'er på et minut 🤖
 >
