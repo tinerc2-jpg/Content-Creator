@@ -11,7 +11,7 @@
 >
 > Og det kan alle andre også.
 >
-> Så om lidt har salgschefen en agent, der sorterer ansøgninger, og teamlederen en, der svarer på spørgsmål om ferie og opsigelse. Ingen har spurgt HR, og ingen har skrevet ned, hvem der ejer dem.
+> Så om lidt har salgschefen en agent, der skriver tilbud til kunderne, og HR-konsulenten en, der svarer på spørgsmål om ferie og opsigelse. Men ingen har skrevet ned, hvem der ejer dem.
 >
 > Gartner har spurgt HR-direktører, og kun hver fjerde ledergruppe er enige om, hvem der har ansvaret for AI-agenterne. Tre ud af fire har altså ikke styr på det.
 >
