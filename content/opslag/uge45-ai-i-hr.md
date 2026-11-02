@@ -5,7 +5,7 @@
 
 ## Udkast 3: skarpere, med vibe coding (aktuel)
 
-> Hvem står på mål, når AI-agenten tager fejl? 🤖
+> Computeren bliver afleveret. Agenten kører videre 🤖
 >
 > Jeg vibe coder. Jeg bygger mine egne små værktøjer ved at fortælle AI, hvad jeg vil have, og det går stærkt. Det, der før krævede en IT-afdeling, laver jeg nu på en eftermiddag ved køkkenbordet.
 >
