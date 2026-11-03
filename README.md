@@ -7,6 +7,7 @@
 | [content/02-tone-of-voice.md](content/02-tone-of-voice.md) | Tines tone of voice med tjekliste til hvert opslag |
 | [content/opslag/](content/opslag/) | Færdige opslag, klar til at poste |
 | [content/04-hr-indsigter.md](content/04-hr-indsigter.md) | Nøgletal fra Randstad, Ballisager, Gartner, Deloitte, Korn Ferry, EY, HBR m.fl. med vinkler til opslag |
+| [content/05-status.md](content/05-status.md) | **Læs først i hver ny samtale:** regler, status og faste opgaver |
 | [content/03-tal-fra-linkedin.md](content/03-tal-fra-linkedin.md) | Sådan hentes tallene fra LinkedIn i browseren |
 | [data/posts.csv](data/posts.csv) | Opslagsplan og reach-data pr. opslag. Det er datakilden til dashboardet |
 | [data/profil.csv](data/profil.csv) | Følgere og forbindelser over tid |
