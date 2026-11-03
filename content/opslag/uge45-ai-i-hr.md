@@ -7,7 +7,7 @@
 
 > Agenten blev, da medarbejderen gik 🤖
 >
-> Jeg vibe coder. Jeg bygger mine egne små værktøjer ved at fortælle AI, hvad jeg vil have, og det går stærkt. Det, der før krævede en IT-afdeling, laver jeg nu på en eftermiddag ved køkkenbordet.
+> Jeg vibe coder. Jeg bygger mine egne agenter og værktøjer ved at fortælle AI, hvad jeg vil have, og det går stærkt. Det, der før krævede en IT-afdeling, laver jeg nu på en eftermiddag ved køkkenbordet.
 >
 > Og det kan alle andre også.
 >
