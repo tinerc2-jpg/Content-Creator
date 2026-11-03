@@ -5,7 +5,7 @@
 
 ## Endelig version (planlagt tirsdag 3/11 kl. 8.30)
 
-> Fratrædelsestjeklisten mangler et punkt 🤖
+> Agenten blev, da medarbejderen gik 🤖
 >
 > Jeg vibe coder. Jeg bygger mine egne små værktøjer ved at fortælle AI, hvad jeg vil have, og det går stærkt. Det, der før krævede en IT-afdeling, laver jeg nu på en eftermiddag ved køkkenbordet.
 >
