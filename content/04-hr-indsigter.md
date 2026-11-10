@@ -138,7 +138,7 @@ Alle seks passer til Tines profil: data og hjerte, Career Playground, Great Conv
 | Opslag i planen | Indsigt, der kan styrke det |
 |-----------------|-----------------------------|
 | Uge 45 – AI i HR | Gallup (okt. 2026): 31 % af AI-brugerne har fået flere opgaver, ikke mere tid. Gartner: kun 24 % ved, hvem der har ansvaret for AI-agenter |
-| Uge 46 – Dilemma: Hvem er HR's kunde? | Korn Ferry: tilliden til topledelsen er faldet 15 procentpoint |
+| Uge 46 – Dilemma: Hvem er HR's kunde? | Brugt: Tines egen frivillige turnover (omkring 10 %). Korn Ferry fravalgt (måler fald siden 2024) |
 | Uge 47 – People analytics | Korn Ferry: 71 % går efter mavefornemmelsen, fordi der er for meget data |
 | Uge 48 – Dilemma: Det akutte versus det langsigtede | Gartner: HR er hurtig til processer, men ikke til værdi |
 | Uge 49 – Kandidatoplevelsen | Ballisager: kun hver femte giver skriftligt afslag efter en samtale **(tjek)** |
