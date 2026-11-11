@@ -17,7 +17,7 @@
 >
 > Det, der hjalp mig mest, var at få begge sider til at høre hinanden. Engagementsmålinger og exitsamtaler fortalte os i ledergruppen det, medarbejderne ikke sagde højt. Og når vi havde truffet en svær beslutning, hjalp jeg lederne ude i forretningen med at forklare hvorfor. Folk kan godt leve med en beslutning, de er uenige i, når de forstår den.
 >
-> Mit tredje svar er arbejdspladsen. Det lyder nemt, men det er det sværeste, jeg ved 💙
+> Mit tredje svar er arbejdspladsen. Den skal både levere resultater og være et sted, folk vil blive. Det lyder nemt, men det er det sværeste, jeg ved 💙
 >
 > #hr #ledelse #arbejdsmiljø
 
