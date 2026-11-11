@@ -30,7 +30,7 @@
 | 43 | Ekspert i alt, specialist i intet? ⚖️ | Postet 20/10, målt |
 | 44 | Tidligere MUS-jæger 🙈 | Postet 27/10, målt |
 | 45 | Agenten blev, da medarbejderen gik 🤖 (med grafik) | Postet 3/11, målt 10/11 (1.071 eksponeringer) |
-| 46 | Tre svar. Kun ét var rigtigt. ⚖️ (dilemma 2, ren tekst) | Endelig ([se opslaget](opslag/uge46-hr-kunde.md)), postes 10/11. Måles 17/11 |
+| 46 | Tre svar. Kun ét var rigtigt. ⚖️ (dilemma 2, ren tekst) | Postet 11/11 ([se opslaget](opslag/uge46-hr-kunde.md)). Måles 17/11 (efter 6 dage) |
 | 47 | A9 – Når data og samtaler peger samme vej (karrusel) | Næste. Ikke skrevet endnu |
 
 Resten af planen står i [opslagsoversigten](01-opslagsoversigt.md).
