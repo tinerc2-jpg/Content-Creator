@@ -1,7 +1,7 @@
 # Uge 46 – Tre svar. Kun ét var rigtigt. ⚖️ (F1, dilemma 2)
 
 **Søjle:** F (HR-generalistens dilemmaer), dilemma 2 af 4 · **Format:** ren tekst, uden billede og uden afstemning · **Status:** endelig, postes tirsdag 10/11 (ellers onsdag 7.30–8.30)
-**Tal:** Tines egen frivillige turnover (omkring 10 %), så ingen ekstern kilde i første kommentar.
+**Tal:** Intet. Tine valgte at fjerne turnover-tallet, så afsnittet slutter på "når de forstår den" (undtagelse fra reglen om ét tal).
 
 ## Endelig version
 
@@ -15,7 +15,7 @@
 >
 > De sværeste dage var dem, hvor jeg gik direkte fra et møde i ledergruppen til en samtale med en medarbejder, der ville blive ramt af beslutningen. Lederen havde ret i, at noget skulle ændres. Medarbejderen havde ret i, at det gjorde ondt.
 >
-> Det, der hjalp mig mest, var at få begge sider til at høre hinanden. Engagementsmålinger og exitsamtaler fortalte os i ledergruppen det, medarbejderne ikke sagde højt. Og når vi havde truffet en svær beslutning, hjalp jeg lederne ude i forretningen med at forklare hvorfor. Folk kan godt leve med en beslutning, de er uenige i, når de forstår den. Det kunne ses på den frivillige turnover, som lå omkring 10 %, også i de svære år.
+> Det, der hjalp mig mest, var at få begge sider til at høre hinanden. Engagementsmålinger og exitsamtaler fortalte os i ledergruppen det, medarbejderne ikke sagde højt. Og når vi havde truffet en svær beslutning, hjalp jeg lederne ude i forretningen med at forklare hvorfor. Folk kan godt leve med en beslutning, de er uenige i, når de forstår den.
 >
 > Mit tredje svar er arbejdspladsen. Det lyder nemt, men det er det sværeste, jeg ved 💙
 >
