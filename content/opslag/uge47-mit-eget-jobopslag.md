@@ -39,7 +39,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 >
 > For nylig fortalte jeg, at min karriere er blevet til en serie på Netflix. Piloten blev optaget hos Ving. Sæson 1 til 3 hos Microsoft, IC Companys og Randstad. Sæson 4 mangler stadig et sted at blive optaget.
 >
-> Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal ske i handlingen. Så her er min rollebeskrivelse.
+> Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal ske i handlingen. Det gør jeg her.
 >
 > **Hovedrolle: Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
