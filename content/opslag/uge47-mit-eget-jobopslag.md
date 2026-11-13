@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 4 = Tines version (sæson 4-vinkel)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** endelig (udkast 4 + rettelse A og B), klar til tirsdag 17/11
 **Tal:** "Mere end 20 års erfaring" ✔ (HR siden 2001 jf. profil = 25 år)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
@@ -20,7 +20,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Det skal ske i sæson 4**
 > • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
 > • Lederne tager selv de svære samtaler og sender dem ikke videre til HR
-> • Beslutninger om mennesker bygger på både data og ægte samtaler
+> • Beslutninger om mennesker bygger på både data og det, folk siger, når man lytter
 >
 > **Rollen kræver**
 > • Erfaring med hele HR-området, fra strategi og forandring til ansættelsesret
@@ -31,7 +31,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > • En direktør og en ledergruppe, der vil høre det, der er svært at sige
 > • Mandat til at bygge noget, der kan mærkes i forretningen
 >
-> Optagelserne kan begynde med det samme. Jeg medbringer masser af grin, et positivt mindset, nysgerrighed og en god portion ærlighed. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
+> Optagelserne kan begynde med det samme. Jeg medbringer masser af grin, nysgerrighed og en god portion ærlighed. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
 >
 > #hr #headofpeople #jobsøgning
 
