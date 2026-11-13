@@ -49,7 +49,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Det skal ske i sæson 4**
 > • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
 > • Lederne tager selv de svære samtaler og sender dem ikke videre til HR
-> • Beslutninger om mennesker bygger på både data og det, folk siger, når man lytter
+> • Beslutninger om mennesker bygger på både data og hjerte
 >
 > **Rollen kræver**
 > • Erfaring med hele HR-området, fra strategi og forandring til ansættelsesret
