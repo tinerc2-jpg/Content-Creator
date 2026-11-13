@@ -9,6 +9,6 @@
 - Påmindelser flyttet 13/11 til session_01ASyS4CCKDwbJ8mNK9TtjCC (gamle slettet). Branch: claude/friendly-pasteur-05lk9v.
 
 **Næste skridt:**
-- Godkend slutningen på uge 47 ('Optagelserne kan begynde med det samme…'), markér som færdig.
+- Uge 47 er færdig og godkendt 13/11.
 - Tirsdag 17/11 7.15: postedag (uge 47). Kl. 16: tal for uge 46.
 - Planlæg uge 48 (se `content/01-opslagsoversigt.md`; A9 er udskudt).

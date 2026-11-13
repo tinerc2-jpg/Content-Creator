@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 3 med Netflix-rammen (sæson 4), under gennemgang. Postes tirsdag 17/11 kl. 8.30
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** FÆRDIG (udkast 3 med Netflix-rammen godkendt 13/11). Postes tirsdag 17/11 kl. 8.30
 **Tal:** intet (antal år fjernet, kan afskrække)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
