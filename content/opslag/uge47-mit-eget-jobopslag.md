@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B, "Det skal lykkes" = B, "Vi forventer" = B uden antal år)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B, "Det skal lykkes" = B, "Vi forventer" = B uden antal år, "Vi tilbyder" = B)
 **Tal:** intet (antal år fjernet, kan afskrække)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
@@ -26,8 +26,8 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > • At du ansætter folk, der kan vokse, og ikke bare fylder en stilling ud
 >
 > **Vi tilbyder**
-> • En ledelse, der vil høre det, der er svært at sige
-> • Plads til at bygge noget, der gør en forskel for forretningen
+> • En direktør og en ledergruppe, der vil høre det, der er svært at sige
+> • Mandat til at bygge noget, der kan mærkes i forretningen
 >
 > Står I og mangler netop den rolle, så ved I, hvor I finder mig 💙
 >
