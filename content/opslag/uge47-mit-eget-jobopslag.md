@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog, titel og "Om rollen" (A, kort) godkendt)
 **Tal:** "Mere end 20 års erfaring" (tjekkes)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
@@ -13,7 +13,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
 > **Om rollen**
-> Du er sparringspartner for direktøren og ledergruppen i alt, der handler om mennesker og organisation. Du er tæt på forretningen og sørger for, at det, der bliver besluttet, også bliver til virkelighed.
+> Du er sparringspartner for direktøren og ledergruppen og sørger for, at det, der bliver besluttet, også bliver til virkelighed.
 >
 > **Det skal lykkes**
 > • Organisationen skal kunne vokse og forandre sig, uden at de dygtigste går
