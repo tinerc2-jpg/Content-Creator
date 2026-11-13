@@ -8,5 +8,6 @@
 - Regler: ingen tal fra 2024 eller ældre, ingen afstemninger, "frivillig turnover", "vi" om ledergruppen, ingen "sidde med ved bordet".
 
 **Næste skridt:**
-- Gennemgå uge 47 afsnit for afsnit fra "Om rollen" (anbefalet B: konkret, uden "alt der handler om mennesker"). Tjek "mere end 20 års erfaring".
+- Uge 47: "Om rollen" = B (Claudes anbefaling, ordret i filen). "20 år" tjekket. Næste: gennemgå "Det skal lykkes" – vis altid valgmuligheder A/B/C og lad Tine vælge.
+- Fortsæt ALTID præcis fra sidste besked i forrige chat (læs den via list_events, hvis noten er uklar). Push til `claude/linkedin-content-strategy-azqlka`.
 - Tal for uge 46: tirsdag 17/11 kl. 16 (påmindelse oprettet).

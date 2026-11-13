@@ -13,7 +13,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
 > **Om rollen**
-> Du er en del af ledergruppen og direktørens sparringspartner om organisation, ledelse og forandring. Du er tæt på forretningen og sørger for, at det, der bliver besluttet, også bliver til virkelighed.
+> Du er direktørens og ledergruppens sparringspartner, når der skal ansættes, organiseres om eller tages en svær beslutning om mennesker. Og du er med hele vejen, fra beslutningen til den sidste samtale.
 >
 > **Det skal lykkes**
 > • Organisationen skal kunne vokse og forandre sig, uden at de dygtigste går
