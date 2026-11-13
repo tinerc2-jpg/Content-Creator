@@ -1,7 +1,7 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B, "Det skal lykkes" = B)
-**Tal:** "Mere end 20 års erfaring" (tjekkes)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B, "Det skal lykkes" = B, "Vi forventer" = B uden antal år)
+**Tal:** intet (antal år fjernet, kan afskrække)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
 ## Udkast 2
@@ -21,9 +21,9 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > • Beslutninger om mennesker bygger på både data og det, folk siger, når man lytter
 >
 > **Vi forventer**
-> • Mere end 20 års erfaring med hele HR-området, fra strategi og forandring til ansættelsesret og den svære samtale
+> • Erfaring med hele HR-området, fra strategi og forandring til ansættelsesret
 > • At du siger tingene, som de er, også til direktøren
-> • At du ansætter til en karriere og ikke bare til et job
+> • At du ansætter folk, der kan vokse, og ikke bare fylder en stilling ud
 >
 > **Vi tilbyder**
 > • En ledelse, der vil høre det, der er svært at sige
