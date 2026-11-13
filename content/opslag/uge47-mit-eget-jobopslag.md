@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B, "Det skal lykkes" = B)
 **Tal:** "Mere end 20 års erfaring" (tjekkes)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
@@ -16,9 +16,9 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > Du er en del af ledergruppen og direktørens sparringspartner, når organisationen skal vokse, ændres eller have nye ledere. Du sørger for, at det, vi beslutter, også sker ude i hverdagen.
 >
 > **Det skal lykkes**
-> • Organisationen skal kunne vokse og forandre sig, uden at de dygtigste går
-> • Lederne skal kunne tage de svære samtaler selv
-> • Beslutninger skal bygge på både data og det, folk siger, når man lytter
+> • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
+> • Lederne tager selv de svære samtaler og sender dem ikke videre til HR
+> • Beslutninger om mennesker bygger på både data og det, folk siger, når man lytter
 >
 > **Vi forventer**
 > • Mere end 20 års erfaring med hele HR-området, fra strategi og forandring til ansættelsesret og den svære samtale
