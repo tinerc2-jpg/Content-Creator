@@ -1,10 +1,10 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog, titel og "Om rollen" (A, kort) godkendt)
-**Tal:** "Mere end 20 års erfaring" (tjekkes)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 3 med Netflix-rammen (sæson 4), under gennemgang. Postes tirsdag 17/11 kl. 8.30
+**Tal:** intet (antal år fjernet, kan afskrække)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
-## Udkast 2
+## Godkendt 13/11 (uden Netflix-rammen)
 
 > Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal lykkes.
 >
@@ -13,22 +13,53 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
 > **Om rollen**
-> Du er sparringspartner for direktøren og ledergruppen og sørger for, at det, der bliver besluttet, også bliver til virkelighed.
+> Du er en del af ledergruppen og direktørens sparringspartner, når organisationen skal vokse, ændres eller have nye ledere. Du sørger for, at det, vi beslutter, også sker ude i hverdagen.
 >
 > **Det skal lykkes**
-> • Organisationen skal kunne vokse og forandre sig, uden at de dygtigste går
-> • Lederne skal kunne tage de svære samtaler selv
-> • Beslutninger skal bygge på både data og det, folk siger, når man lytter
+> • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
+> • Lederne tager selv de svære samtaler og sender dem ikke videre til HR
+> • Beslutninger om mennesker bygger på både data og det, folk siger, når man lytter
 >
 > **Vi forventer**
-> • Mere end 20 års erfaring med hele HR-området, fra strategi og forandring til ansættelsesret og den svære samtale
+> • Erfaring med hele HR-området, fra strategi og forandring til ansættelsesret
 > • At du siger tingene, som de er, også til direktøren
-> • At du ansætter til en karriere og ikke bare til et job
+> • At du ansætter folk, der kan vokse, og ikke bare fylder en stilling ud
 >
 > **Vi tilbyder**
-> • En ledelse, der vil høre det, der er svært at sige
-> • Plads til at bygge noget, der gør en forskel for forretningen
+> • En direktør og en ledergruppe, der vil høre det, der er svært at sige
+> • Mandat til at bygge noget, der kan mærkes i forretningen
 >
-> Står I og mangler netop den rolle, så ved I, hvor I finder mig 💙
+> Mangler I netop den rolle, så ved I, hvor I finder mig 💙
 >
-> #hr #jobsøgning #hrbusinesspartner
+> #hr #headofpeople #jobsøgning
+
+## Udkast 3 – koblet til Netflix-serien
+
+> Castingen til sæson 4 er i gang. Jeg har selv skrevet hovedrollen 🎬
+>
+> For nylig fortalte jeg, at min karriere er blevet til en serie på Netflix. Piloten blev optaget hos Ving. Sæson 1 til 3 hos Microsoft, IC Companys og Randstad. Sæson 4 mangler stadig et sted at blive optaget.
+>
+> Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal ske i handlingen. Det gør jeg her.
+>
+> **Hovedrolle: Senior HR Business Partner / Head of People · Storkøbenhavn**
+>
+> **Rollen**
+> Du er en del af ledergruppen og direktørens sparringspartner, når organisationen skal forandre sig, i både med- og modvind, uden at kulturen går tabt. Du sørger for, at det, vi beslutter, også sker ude i hverdagen.
+>
+> **Det skal ske i sæson 4**
+> • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
+> • Lederne tager selv de svære samtaler og sender dem ikke videre til HR
+> • Beslutninger om mennesker bygger på både data og det, folk siger, når man lytter
+>
+> **Rollen kræver**
+> • Erfaring med hele HR-området, fra strategi og forandring til ansættelsesret
+> • At du siger tingene, som de er, også til direktøren
+> • At du ansætter folk, der kan vokse, og ikke bare fylder en stilling ud
+>
+> **Produktionen tilbyder**
+> • En direktør og en ledergruppe, der vil høre det, der er svært at sige
+> • Mandat til at bygge noget, der kan mærkes i forretningen
+>
+> Optagelserne kan begynde med det samme. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
+>
+> #hr #headofpeople #jobsøgning

@@ -31,7 +31,7 @@
 | 44 | Tidligere MUS-jæger 🙈 | Postet 27/10, målt |
 | 45 | Agenten blev, da medarbejderen gik 🤖 (med grafik) | Postet 3/11, målt 10/11 (1.071 eksponeringer) |
 | 46 | Tre svar. Kun ét var rigtigt. ⚖️ (dilemma 2, ren tekst) | Postet 11/11 ([se opslaget](opslag/uge46-hr-kunde.md)). Måles 17/11 (efter 6 dage) |
-| 47 | C5 – Mit eget jobopslag (A9 udskudt) | Udkast 2 under gennemgang ([se opslaget](opslag/uge47-mit-eget-jobopslag.md)) |
+| 47 | C5 – Mit eget jobopslag (A9 udskudt) | Udkast 3 med Netflix-rammen under gennemgang, postes 17/11 kl. 8.30 ([se opslaget](opslag/uge47-mit-eget-jobopslag.md)) |
 
 Resten af planen står i [opslagsoversigten](01-opslagsoversigt.md).
 
@@ -51,7 +51,7 @@ Resten af planen står i [opslagsoversigten](01-opslagsoversigt.md).
 
 ## Påmindelser
 
-Påmindelserne er bundet til samtalen session_01ASyS4EA5bfukF5BsaQyC5h (flyttet 3/11). Starter du en ny samtale: opret dem igen der og slet de gamle.
+Påmindelserne er bundet til samtalen session_01ASyS4CCKDwbJ8mNK9TtjCC (flyttet 13/11). Starter du en ny samtale: opret dem igen der og slet de gamle.
 - Tal for uge 46: tirsdag 17/11 kl. 16 (dansk tid).
 - Månedlig HR-indsigt: den 1. kl. 8.55 (dansk tid).
 - Postedag-påmindelse: hver tirsdag kl. 7.15 (dansk tid).
