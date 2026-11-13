@@ -1,10 +1,10 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** udkast 2, under gennemgang (krog godkendt, titel Senior HRBP / Head of People, "Om rollen" = B, "Det skal lykkes" = B, "Vi forventer" = B uden antal år, "Vi tilbyder" = B)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** FÆRDIG – godkendt 13/11, postes tirsdag 17/11 kl. 8.30
 **Tal:** intet (antal år fjernet, kan afskrække)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
-## Udkast 2
+## Endelig tekst
 
 > Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal lykkes.
 >
@@ -29,6 +29,6 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > • En direktør og en ledergruppe, der vil høre det, der er svært at sige
 > • Mandat til at bygge noget, der kan mærkes i forretningen
 >
-> Står I og mangler netop den rolle, så ved I, hvor I finder mig 💙
+> Mangler I netop den rolle, så ved I, hvor I finder mig 💙
 >
-> #hr #jobsøgning #hrbusinesspartner
+> #hr #headofpeople #jobsøgning
