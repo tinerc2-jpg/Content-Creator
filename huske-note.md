@@ -8,6 +8,6 @@
 - Regler: ingen tal fra 2024 eller ældre, ingen afstemninger, "frivillig turnover", "vi" om ledergruppen, ingen "sidde med ved bordet".
 
 **Næste skridt:**
-- Uge 47: "Om rollen" = B (Claudes anbefaling, ordret i filen). "20 år" tjekket. Næste: gennemgå "Det skal lykkes" – vis altid valgmuligheder A/B/C og lad Tine vælge.
+- Uge 47: gældende tekst = udkast 4 (Tines sæson 4/Netflix-version) i filen. Postes tirsdag 17/11.
 - Fortsæt ALTID præcis fra sidste besked i forrige chat (læs den via list_events, hvis noten er uklar). Push til `claude/linkedin-content-strategy-azqlka`.
 - Tal for uge 46: tirsdag 17/11 kl. 16 (påmindelse oprettet).
