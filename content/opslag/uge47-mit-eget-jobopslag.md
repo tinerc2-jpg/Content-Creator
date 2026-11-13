@@ -35,7 +35,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
 ## Udkast 3 – koblet til Netflix-serien
 
-> Castingen til sæson 4 er i gang. Jeg har skrevet rollen selv 🎬
+> Castingen til sæson 4 er i gang. Jeg har selv skrevet hovedrollen 🎬
 >
 > For nylig fortalte jeg, at min karriere er blevet til en serie på Netflix. Piloten blev optaget hos Ving, og sæson 1 til 3 hos Microsoft, IC Companys og Randstad. Nu mangler sæson 4 bare et sted at blive optaget.
 >
