@@ -51,7 +51,7 @@ Resten af planen står i [opslagsoversigten](01-opslagsoversigt.md).
 
 ## Påmindelser
 
-Påmindelserne er bundet til samtalen session_01ASyS4EA5bfukF5BsaQyC5h (flyttet 3/11). Starter du en ny samtale: opret dem igen der og slet de gamle.
+Påmindelserne er bundet til samtalen session_01ASyS4CCKDwbJ8mNK9TtjCC (flyttet 13/11). Starter du en ny samtale: opret dem igen der og slet de gamle.
 - Tal for uge 46: tirsdag 17/11 kl. 16 (dansk tid).
 - Månedlig HR-indsigt: den 1. kl. 8.55 (dansk tid).
 - Postedag-påmindelse: hver tirsdag kl. 7.15 (dansk tid).
