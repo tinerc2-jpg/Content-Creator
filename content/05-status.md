@@ -1,7 +1,7 @@
 # Status og overlevering
 
 > Læs denne fil først i hver ny samtale. Den fortæller, hvor vi er, og hvilke regler der gælder.
-> Opdateres, hver gang en samtale afsluttes. Senest opdateret: 10. november 2026.
+> Opdateres, hver gang en samtale afsluttes. Senest opdateret: 13. november 2026.
 
 ## Regler, Tine har sat (gælder altid)
 
@@ -31,7 +31,7 @@
 | 44 | Tidligere MUS-jæger 🙈 | Postet 27/10, målt |
 | 45 | Agenten blev, da medarbejderen gik 🤖 (med grafik) | Postet 3/11, målt 10/11 (1.071 eksponeringer) |
 | 46 | Tre svar. Kun ét var rigtigt. ⚖️ (dilemma 2, ren tekst) | Postet 11/11 ([se opslaget](opslag/uge46-hr-kunde.md)). Måles 17/11 (efter 6 dage) |
-| 47 | A9 – Når data og samtaler peger samme vej (karrusel) | Næste. Ikke skrevet endnu |
+| 47 | C5 – Mit eget jobopslag (A9 udskudt) | Udkast 2 under gennemgang ([se opslaget](opslag/uge47-mit-eget-jobopslag.md)) |
 
 Resten af planen står i [opslagsoversigten](01-opslagsoversigt.md).
 
