@@ -60,6 +60,6 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > • En direktør og en ledergruppe, der vil høre det, der er svært at sige
 > • Mandat til at bygge noget, der kan mærkes i forretningen
 >
-> Optagelserne kan begynde med det samme. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
+> Optagelserne kan begynde med det samme. Jeg medbringer humor, nysgerrighed og en god portion ærlighed. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
 >
 > #hr #headofpeople #jobsøgning
