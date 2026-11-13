@@ -44,7 +44,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Hovedrolle: Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
 > **Rollen**
-> Du er en del af ledergruppen og direktørens sparringspartner, når organisationen skal vokse, ændres eller have nye ledere. Du sørger for, at det, vi beslutter, også sker ude i hverdagen.
+> Du er en del af ledergruppen og direktørens sparringspartner, når organisationen skal vokse og forandre sig, uden at kulturen går tabt. Du sørger for, at det, vi beslutter, også sker ude i hverdagen.
 >
 > **Det skal ske i sæson 4**
 > • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
