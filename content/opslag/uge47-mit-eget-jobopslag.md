@@ -35,11 +35,11 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
 ## Udkast 3 – koblet til Netflix-serien
 
-> Manuskriptet til sæson 4 er klar 🎬
+> Castingen til sæson 4 er i gang. Jeg har skrevet rollen selv 🎬
 >
 > For nylig fortalte jeg, at min karriere er blevet til en serie på Netflix. Piloten blev optaget hos Ving, og sæson 1 til 3 hos Microsoft, IC Companys og Randstad. Nu mangler sæson 4 bare et sted at blive optaget.
 >
-> Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal ske i handlingen. Så jeg har skrevet rollebeskrivelsen selv.
+> Alle HR-jobopslag beder om en dynamisk og strategisk partner. Næsten ingen skriver, hvad der skal ske i handlingen. Så her er min rollebeskrivelse.
 >
 > **Hovedrolle: Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
