@@ -4,11 +4,10 @@
 
 **Besluttet:**
 - Uge 46 "Tre svar. Kun ét var rigtigt. ⚖️" postet 11/11.
-- Uge 47 = C5 "Mit eget jobopslag", nu koblet til Netflix-serien (udkast 3 i `content/opslag/uge47-mit-eget-jobopslag.md`). Krog: "Castingen til sæson 4 er i gang. Jeg har selv skrevet hovedrollen 🎬". Alt godkendt undtagen slutningen. Intet tal (antal år kan afskrække). Ikke anføre vækst som givet (med- og modvind). Hashtags #hr #headofpeople #jobsøgning.
-- Regler: ingen tal fra 2024 eller ældre, ingen afstemninger, "frivillig turnover", "vi" om ledergruppen, ingen "sidde med ved bordet".
-- Påmindelser flyttet 13/11 til session_01ASyS4CCKDwbJ8mNK9TtjCC (gamle slettet). Branch: claude/friendly-pasteur-05lk9v.
+- Uge 47 FÆRDIG: "Castingen til sæson 4…" (Netflix-rammen), se `content/opslag/uge47-mit-eget-jobopslag.md` (afsnittet Udkast 3). Ændret 13/11: ny "Rollen"-tekst, "data og ægte samtaler", slutning med "masser af grin, et positivt mindset, nysgerrighed og en god portion ærlighed". Ingen golf.
+- Regler: ingen tal fra 2024 eller ældre, ingen afstemninger, "frivillig turnover", "vi" om ledergruppen, ingen "sidde med ved bordet". Tine vil have sin personlighed (grin, positivt mindset) med.
+- Brug branch claude/affectionate-pasteur-32qj6q (synket med friendly-pasteur).
 
 **Næste skridt:**
-- Uge 47 er færdig og godkendt 13/11.
-- Tirsdag 17/11 7.15: postedag (uge 47). Kl. 16: tal for uge 46.
-- Planlæg uge 48 (se `content/01-opslagsoversigt.md`; A9 er udskudt).
+- Tirsdag 17/11 kl. 8.30: post uge 47. Kl. 16: tal for uge 46.
+- Planlæg uge 48 (`content/01-opslagsoversigt.md`, A9 udskudt).
