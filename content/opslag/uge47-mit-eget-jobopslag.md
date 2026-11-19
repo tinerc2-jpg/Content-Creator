@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** endelig (udkast 4 + rettelse A og B), godkendt version fra chatten 17/11 (Rollen med med- og modvind, slutning A)
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** endelig (udkast 4 + rettelse A og B), ENDELIG, godkendt af Tine 19/11 (slutning A, "til en karriere")
 **Tal:** "Mere end 20 års erfaring" ✔ (HR siden 2001 jf. profil = 25 år)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
