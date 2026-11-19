@@ -1,6 +1,6 @@
 # Uge 47 – Mit eget jobopslag (C5)
 
-**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** endelig (udkast 4 + rettelse A og B), klar til tirsdag 17/11
+**Søjle:** C (jobsøgningen) · **Format:** ren tekst · **Status:** endelig (udkast 4 + rettelse A og B), godkendt version fra chatten 17/11 (Rollen med med- og modvind, slutning A)
 **Tal:** "Mere end 20 års erfaring" ✔ (HR siden 2001 jf. profil = 25 år)
 A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 
@@ -15,7 +15,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Hovedrolle: Senior HR Business Partner / Head of People · Storkøbenhavn**
 >
 > **Rollen**
-> Du er direktørens sparringspartner og en del af ledergruppen. Du hjælper organisationen gennem forandringer, både de gode og de svære, og passer på kulturen imens.
+> Du er en del af ledergruppen og direktørens sparringspartner, når organisationen skal forandre sig, i både med- og modvind, uden at kulturen går tabt. Du sørger for, at det, vi beslutter, også sker ude i hverdagen.
 >
 > **Det skal ske i sæson 4**
 > • De dygtigste bliver, også når organisationen vokser eller bliver lavet om
@@ -31,7 +31,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > • En direktør og en ledergruppe, der vil høre det, der er svært at sige
 > • Mandat til at bygge noget, der kan mærkes i forretningen
 >
-> Optagelserne kan begynde med det samme. Jeg medbringer masser af grin, nysgerrighed og en god portion ærlighed. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
+> Optagelserne kan begynde med det samme. Mangler I netop den hovedrolle, så ved I, hvor I finder mig 💙
 >
 > #hr #headofpeople #jobsøgning
 
