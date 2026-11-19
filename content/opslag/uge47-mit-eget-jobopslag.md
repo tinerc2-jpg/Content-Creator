@@ -25,7 +25,7 @@ A9 (data og samtaler) er udskudt; udkastet ligger i uge47-data-og-samtaler.md.
 > **Rollen kræver**
 > • Erfaring med hele HR-området, fra strategi og forandring til ansættelsesret
 > • At du siger tingene, som de er, også til direktøren
-> • At du ansætter folk, der kan vokse, og ikke bare fylder en stilling ud
+> • At du ansætter til en karriere og ikke bare til et job
 >
 > **Produktionen tilbyder**
 > • En direktør og en ledergruppe, der vil høre det, der er svært at sige
